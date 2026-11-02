@@ -1,1218 +1,1659 @@
-      Discipline-Specific Regulations for                    § 12 Duration and Organization of the Second
-    Study and Examinations for the Mas-                      Segment of the Master’s/Ph.D. Program
-                                                             § 13 Doctoral Studies
-    ter’s and Ph.D. Programs in Cognitive                    § 14 Validity, Termination, Transfer Regulations
-     Science – Embodied Cognition at the
-            University of Potsdam                            Appendix 1: Module descriptions
-                                                             Appendix 2: Sample degree progress plans
-             dated January 20, 2016
-                                                             I. General Section
-The Faculty Council of the Human Sciences Facul-             § 1 Applicability
-ty at the University of Potsdam has approved on
-January 20, 2016 the following study and examina-            (1) These regulations apply to the consecutive mas-
-tion regulations, on the basis of the new Branden-           ter’s / Ph.D. program in Cognitive Science – Em-
-burg Higher Education Act Articles 19 (1), 22 (1-            bodied Cognition at the University of Potsdam.
-3), 31 in connection with Article 72 (2(1)) of the
-Brandenburg Higher Education Act of April 28,                (2) In the event that these regulations contradict the
-2014 (Law and Ordinance Gazette (GVBl.) I/14,                BAMA-O, then the provisions in the BAMA-O
-[no. 18]), last amended by Article 2 of the law of           supersede these regulations.
+Discipline-Specific Regulations for
+Study and Examinations for the Master’s and Ph.D. Programs in Cognitive
+Science – Embodied Cognition at the
+University of Potsdam
+dated January 20, 2016
+The Faculty Council of the Human Sciences Faculty at the University of Potsdam has approved on
+January 20, 2016 the following study and examination regulations, on the basis of the new Brandenburg Higher Education Act Articles 19 (1), 22 (13), 31 in connection with Article 72 (2(1)) of the
+Brandenburg Higher Education Act of April 28,
+2014 (Law and Ordinance Gazette (GVBl.) I/14,
+[no. 18]), last amended by Article 2 of the law of
 July 1, 2015 (GVBl. I/15 [no. 18]) in combination
 with the Ordinance on the Design of Examination
-                                                             (3) The regulations for a doctoral degree at the
-Regulations to Guarantee the Equivalency of Stud-
-                                                             Faculty of Human Sciences at the University of
-ies, Examinations, and Degrees (University Exami-
-                                                             Potsdam also apply to the Ph.D. program.
-nation Ordinance - HSPV)
- of March 4, 2015 (GVBl. II/15 [no. 12]) and with
-                                                             § 2 Degree
+Regulations to Guarantee the Equivalency of Studies, Examinations, and Degrees (University Examination Ordinance - HSPV)
+of March 4, 2015 (GVBl. II/15 [no. 12]) and with
 Article 14 (1(2)) of the Basic Constitution of the
 University of Potsdam (GrundO) of December 17,
-                                                             (1) The Faculty of Human Sciences at the Universi-
 2009 (Bulletin UP no. 4/2010 p. 60) ------ in the
-                                                             ty of Potsdam awards the degree of “Master of
 Third Amended Version of the Basic Constitution
-                                                             Science” (“M.Sc.”) to students who have completed
 of the University of Potsdam (GrundO) of May 21,
-                                                             the necessary credit points and graduation require-
 2014 (Bulletin UP no. 6/2015 p. 235) and Article
-                                                             ments.
 1(2) of the new version of the General Admission
 Regulations for Master’s Degree Programs at the
-                                                             (2) The Faculty of Human Sciences at the Universi-
-University of Potsdam not related to teacher educa-
-                                                             ty of Potsdam awards the degree of “Doctor of
-tion (BAMA-O) (Bulletin UP no. 3/2013, p 35), last
-                                                             Philosophy” (“Ph.D.”) to students who have com-
+University of Potsdam not related to teacher education (BAMA-O) (Bulletin UP no. 3/2013, p 35), last
 amended on February 26, 2014 (Bulletin UP
-                1                                            pleted the necessary credit points and graduation
-3/2014, p. 35):                                              requirements.
-Table of Contents                                            § 3 Objectives and Aims of the Master’s/Ph.D.
-                                                             Program
-    I.       General Section
-§ 1 Applicability                                            (1) This degree program is divided into two seg-
-§ 2 Degree                                                   ments: first, a two-year research-oriented master’s
-§ 3 Objectives and Aims of the Master’s/Ph.D.                program that leads students through 120 credit
-Program                                                      points of coursework and finishes with the “M.Sc.”
-                                                             degree; and second, a two-year Ph.D. program with
-     II.     Master’s Program                                120 credit points and the “Ph.D.” degree.
+1
+3/2014, p. 35):
+Table of Contents
+I.
+General Section
+§ 1 Applicability
+§ 2 Degree
+§ 3 Objectives and Aims of the Master’s/Ph.D.
+Program
+II.
+Master’s Program
 § 4 Admission Prerequisites
-§ 5 Obligation to Complete Bridge Module                     (2) The master’s / Ph.D. program in Cognitive Sci-
-§ 6 Application Documents and Deadlines                      ence – Embodied Cognition takes the knowledge,
-§ 7 Duration and Organization of the First Segment           skills and methodologies acquired in the bachelor’s
-of the Master’s/Ph.D. Program                                program and expands them in an interdisciplinary
-§ 8 Modules and the Course of Studies                        direction in the field of cognitive science. The pro-
-§ 9 Stay Abroad                                              gram qualifies graduates to conduct scientific work
-§ 10 Master’s Thesis                                         as well as private-sector research and management
-                                                             in the field of cognitive analysis and modeling of
-          III.      Ph.D. Program                            human behavior. Graduates possess the knowledge
-                                                             about cognitive processes and their biological foun-
-§ 11 Admission to the Ph.D. Program                          dations required to generate hypotheses about hu-
-                                                             man behavior, perform quantitative measurements
-1                                                            to test the hypothesis by means of experiments, and
- Approved by the President of the University of Potsdam on
-March 7, 2016                                                to develop cognitive modeling in the interdiscipli-
+§ 5 Obligation to Complete Bridge Module
+§ 6 Application Documents and Deadlines
+§ 7 Duration and Organization of the First Segment
+of the Master’s/Ph.D. Program
+§ 8 Modules and the Course of Studies
+§ 9 Stay Abroad
+§ 10 Master’s Thesis
+III.
+
+Ph.D. Program
+
+§ 11 Admission to the Ph.D. Program
+1
+
+Approved by the President of the University of Potsdam on
+March 7, 2016
+
+§ 12 Duration and Organization of the Second
+Segment of the Master’s/Ph.D. Program
+§ 13 Doctoral Studies
+§ 14 Validity, Termination, Transfer Regulations
+Appendix 1: Module descriptions
+Appendix 2: Sample degree progress plans
+I. General Section
+§ 1 Applicability
+(1) These regulations apply to the consecutive master’s / Ph.D. program in Cognitive Science – Embodied Cognition at the University of Potsdam.
+(2) In the event that these regulations contradict the
+BAMA-O, then the provisions in the BAMA-O
+supersede these regulations.
+(3) The regulations for a doctoral degree at the
+Faculty of Human Sciences at the University of
+Potsdam also apply to the Ph.D. program.
+§ 2 Degree
+(1) The Faculty of Human Sciences at the University of Potsdam awards the degree of “Master of
+Science” (“M.Sc.”) to students who have completed
+the necessary credit points and graduation requirements.
+(2) The Faculty of Human Sciences at the University of Potsdam awards the degree of “Doctor of
+Philosophy” (“Ph.D.”) to students who have completed the necessary credit points and graduation
+requirements.
+§ 3 Objectives and Aims of the Master’s/Ph.D.
+Program
+(1) This degree program is divided into two segments: first, a two-year research-oriented master’s
+program that leads students through 120 credit
+points of coursework and finishes with the “M.Sc.”
+degree; and second, a two-year Ph.D. program with
+120 credit points and the “Ph.D.” degree.
+(2) The master’s / Ph.D. program in Cognitive Science – Embodied Cognition takes the knowledge,
+skills and methodologies acquired in the bachelor’s
+program and expands them in an interdisciplinary
+direction in the field of cognitive science. The program qualifies graduates to conduct scientific work
+as well as private-sector research and management
+in the field of cognitive analysis and modeling of
+human behavior. Graduates possess the knowledge
+about cognitive processes and their biological foundations required to generate hypotheses about human behavior, perform quantitative measurements
+to test the hypothesis by means of experiments, and
+to develop cognitive modeling in the interdiscipli-
+
 Status:
 
-
-nary sub-fields of the cognitive sciences and their    Modules.
+nary sub-fields of the cognitive sciences and their
 applications.
-                                                       3. Proof of English-language skills at the B2 level,
-(3) Graduates have both the subject-specific and       evidenced by one of the documents listed in Article
-interdisciplinary methodological skills required to    4 Para 1 of the ZulO (Admission Regulations).
+(3) Graduates have both the subject-specific and
+interdisciplinary methodological skills required to
 describe scientific problems in cognitive process
 analysis. They can formulate new approaches to
-problems in this field, perform experimental inves-    §5        Obligation to Complete Bridge Module
-tigations and modeling, and they can apply and
-further develop methods used to answer these re-       Applicants who cannot demonstrate sufficient skills
-search questions. Graduates can critically analyze     in accordance with Article 3 no. 2, whether in “Ex-
-and evaluate existing experimental approaches and      perimental Psychological Training” or “Mathemat-
-mathematical models. They are able to organize         ics,” are admitted and obligated to complete either
-collaboration between teams working in experi-         the BM1 or BM2 module during their master’s
-mental and theoretical ways, to define intermediate    studies. Details are governed by Article 8. If appli-
-objectives, to guide the preparation of research       cants lack knowledge of “Experimental Psycholog-
-results, and to present these results in English.      ical Training” and “Mathematics,” then they will
-                                                       not                   be                   admitted.
+problems in this field, perform experimental investigations and modeling, and they can apply and
+further develop methods used to answer these research questions. Graduates can critically analyze
+and evaluate existing experimental approaches and
+mathematical models. They are able to organize
+collaboration between teams working in experimental and theoretical ways, to define intermediate
+objectives, to guide the preparation of research
+results, and to present these results in English.
 (4) During the transition to the Ph.D. program, we
-assess the candidate’s capacity for independent        §6        Application Documents and Deadlines
-scholarly work, the writing of scholarly publica-
-tions, and the presentation of scientific research     (1) It is possible to apply for the first semester in
-results. The Ph.D. program includes guidance for       the winter semester; an application for upper se-
-scholarly work in the context of a dissertation pro-   mesters is possible in the summer or winter semes-
-ject, which is typically a more profound treatment     ter.
-of a scholarly project developed during the stu-
-dent’s master’s program. The Ph.D. program pre-        (2) In addition to the documents in Article 5 Para 3
-pares students for a doctoral degree from the Facul-   ZulO, the following documents must be submitted:
-ty of Human Sciences.                                  - Evidence of required language competence (ac-
-                                                            cording to Article 3 no. 3),
+assess the candidate’s capacity for independent
+scholarly work, the writing of scholarly publications, and the presentation of scientific research
+results. The Ph.D. program includes guidance for
+scholarly work in the context of a dissertation project, which is typically a more profound treatment
+of a scholarly project developed during the student’s master’s program. The Ph.D. program prepares students for a doctoral degree from the Faculty of Human Sciences.
 II. Master’s Program
-                                                       - Evidence of Bridge Module knowledge (accord-
-§4        Admission Prerequisites                           ing to Article 3 no. 2).
+§4
 
-The prerequisites for admission to the COSEC           § 7 Duration and Organization of the First Seg-
-master’s program are:                                  ment of the Master’s/Ph.D. Program
+Admission Prerequisites
 
-1. Academic degree                                     (1) The research-focused, consecutive master’s
-                                                       program in Cognitive Sciences – Embodied Cogni-
-(a) A bachelor’s degree or similar from a degree-      tion is offered at the University of Potsdam with a
-    granting institution or similar institution of     standard period of study (full-time program) of 4
-    higher education in the Federal Republic of        semesters and 120 credit points (CP).The master’s
-    Germany in one of the subjects relevant to the     segment can only start in the winter semester.
-    CoSEC master’s program; for example, psy-
-    chology, neuroscience, linguistics, cognitive      (2) The master’s program is suitable for part-time
-    science, computer science, or                      study. Part-time study requires advising from the
-                                                       relevant faculty so that an individualized plan of
-(b) A degree equivalent to (a) from a university       study can be created. Proof of this advising must be
-    abroad.                                            attached to an application in accordance with Arti-
-                                                       cle 3 of the Regulations for Part-Time Studies at the
-2. Evidence of sufficient basic knowledge in the       University of Potsdam (Part-Time Regulations).
-field of “Experimental Psychological Training”         The provisions of the Part-Time Regulations also
-and/or “Mathematics” (9 CP each; see also the          apply.
-Bridge Module BM acc. to Article 5 of the subject-
-specific Degree and Examination Regulations for        § 8 Modules and the Course of Master’s Studies
-the integrated master’s / Ph.D. program in Cogni-
-tive Sciences – Embodied Cognition at the Univer-      (1) The Master’s degree in Cognitive Science –
-sity of Potsdam). This evidence is typically provid-   Embodied Cognition is comprised of the following
-ed through successful participation in a total of 9    components:
+Modules.
+3. Proof of English-language skills at the B2 level,
+evidenced by one of the documents listed in Article
+4 Para 1 of the ZulO (Admission Regulations).
+
+§5
+
+Obligation to Complete Bridge Module
+
+Applicants who cannot demonstrate sufficient skills
+in accordance with Article 3 no. 2, whether in “Experimental Psychological Training” or “Mathematics,” are admitted and obligated to complete either
+the BM1 or BM2 module during their master’s
+studies. Details are governed by Article 8. If applicants lack knowledge of “Experimental Psychological Training” and “Mathematics,” then they will
+not
+be
+admitted.
+§6
+
+Application Documents and Deadlines
+
+(1) It is possible to apply for the first semester in
+the winter semester; an application for upper semesters is possible in the summer or winter semester.
+(2) In addition to the documents in Article 5 Para 3
+ZulO, the following documents must be submitted:
+
+- Evidence of required language competence (according to Article 3 no. 3),
+
+- Evidence of Bridge Module knowledge (according to Article 3 no. 2).
+
+The prerequisites for admission to the COSEC
+master’s program are:
+
+§ 7 Duration and Organization of the First Segment of the Master’s/Ph.D. Program
+
+1. Academic degree
+
+(1) The research-focused, consecutive master’s
+program in Cognitive Sciences – Embodied Cognition is offered at the University of Potsdam with a
+standard period of study (full-time program) of 4
+semesters and 120 credit points (CP).The master’s
+segment can only start in the winter semester.
+
+(a) A bachelor’s degree or similar from a degreegranting institution or similar institution of
+higher education in the Federal Republic of
+Germany in one of the subjects relevant to the
+CoSEC master’s program; for example, psychology, neuroscience, linguistics, cognitive
+science, computer science, or
+(b) A degree equivalent to (a) from a university
+abroad.
+2. Evidence of sufficient basic knowledge in the
+field of “Experimental Psychological Training”
+and/or “Mathematics” (9 CP each; see also the
+Bridge Module BM acc. to Article 5 of the subjectspecific Degree and Examination Regulations for
+the integrated master’s / Ph.D. program in Cognitive Sciences – Embodied Cognition at the University of Potsdam). This evidence is typically provided through successful participation in a total of 9
 CP of coursework. Applicants without sufficient
-knowledge are obligated under Article 5 of the          Master’s Degree
-Degree Regulations to complete up to two Bridge         Module Ab- Name of Module                       CP
+knowledge are obligated under Article 5 of the
+Degree Regulations to complete up to two Bridge
 
-                                                                                            Page 2 of 24
+(2) The master’s program is suitable for part-time
+study. Part-time study requires advising from the
+relevant faculty so that an individualized plan of
+study can be created. Proof of this advising must be
+attached to an application in accordance with Article 3 of the Regulations for Part-Time Studies at the
+University of Potsdam (Part-Time Regulations).
+The provisions of the Part-Time Regulations also
+apply.
+§ 8 Modules and the Course of Master’s Studies
+(1) The Master’s degree in Cognitive Science –
+Embodied Cognition is comprised of the following
+components:
+Master’s Degree
+Module Ab- Name of Module
+
+CP
+
+Page 2 of 24
+
 Status:
 
+breviation
+I. Obligatory modules, OM (Total of 63 CP)
+OM1
+Cognitive Science and
+OM2
+OM3
+OM4
+OM5
+OM6
 
- breviation                                              (2) The language of instruction in the Cognitive
- I. Obligatory modules, OM (Total of 63 CP)              Science – Embodied Cognition program is English.
- OM1             Cognitive Science and           15
-                                                         (3) The descriptions of the modules named in Sec-
-                  Embodied Cognition
-                                                         tion (1) are listed in the module catalog in Appen-
- OM2              Mathematical Modeling in       9
-                                                         dix 1 to these regulations
-                  Neurocognitive Psychology
- OM3              Neuroscience of Embodied       9
-                                                         (4) A sample degree progress plan for the master’s
-                  Cognition                              degree is provided in Appendix 2 of these regula-
- OM4              Advanced Methods: Exper-       6       tions.
-                  imental Programming
- OM5              Advanced Methods: Multi-       9       § 9 Stay Abroad
-                  variate Statistics
- OM6              Individual Research            15
-                                                         A stay abroad during university study is possible; if
-                  Modules
-                                                         one plans on spending a whole semester abroad,
-                                                         then the master’s thesis should be prepared during
- II. Electives (choice modules, CM) (Total 18 CP)        the fourth semester.
- Modules adding up to 18 credit points must be
- selected and successfully completed.                    § 10 Master’s Thesis
- CM_D1             Developmental Science 6
-                   and Embodiment                        (1)
- CM_D2             Language and Develop- 6               As soon as the student has completed at least 75
-                   ment                                  percent of the total required credit points, minus
- CM_D3             Cognitive and Sensorimo- 6            credit points for the thesis and the oral defense, he
-                   tor Development                       or she must immediately propose a topic for his/her
- CM_N1             Neurolinguistic Perspec- 6            master’s thesis.
-                   tives
- CM_N2             Philosophy of Neurosci-    6          (2) The master’s thesis, including the oral defense,
-                   ence and Embodied Cog-                is equivalent to 30 credit points. The master’s thesis
-                   nition                                must be written in English.
- CM_N3             Cognitive Neuroscience, 6
-                   Neuropsychology and the
-                   Body
+Embodied Cognition
+Mathematical Modeling in
+Neurocognitive Psychology
+Neuroscience of Embodied
+Cognition
+Advanced Methods: Experimental Programming
+Advanced Methods: Multivariate Statistics
+Individual Research
+Modules
 
- III. Bridge Modules (9 CP)
- In addition to the elective modules, there are Bridge
- Modules (BM) that, depending on the student’s                           III. Ph.D. Program
- prior education, are meant to close gaps in the stu-
- dent’s knowledge of “Experimental Psychological         § 11 Admission to the Ph.D. Program
- Training” or “Applied Mathematics” (9 CP). The
- Examining Board will determine upon admission to        (1) Students or graduates of the master’s program in
- the master’s program which of the two modules           Cognitive Science – Embodied Cognition can apply
- (BM1 or BM2) must be completed. If the Examin-          for admission to the Ph.D. program. The application
- ing Board finds that the student has sufficient         must include the following documents:
- knowledge in both Bridge Module fields, then 9 CP       - Degree certificate or overview of all coursework
- will be earned in the BM3 laboratory training           completed during the master’s program
- course, the content of which shall be determined by     - Copy of the English-language master’s thesis
- the head of the respective laboratory.                  - Project sketch for a research project that was pre-
- BM1          Bridge Module: “Experi- 9                  pared together with at least one of the persons au-
-              mental Psychological Train-                thorized to supervise doctoral students.
-              ing”                                       - A proposal by the student regarding the disserta-
- BM2          Bridge Module: “Applied 9                  tion advisor or, if necessary, supervision authoriza-
-              Mathematics”                               tion.
- BM3          Laboratory Internship             9
-                                                         (2) The application must be submitted by August 15
- III. Master’s Thesis (30 CP)                  30        at the latest. Students or graduates of a program
-                                                         similar to the master’s program in Cognitive Sci-
- Total obligatory and elective modules to      120       ence – Embodied Cognition are also qualified to
- be completed                                            apply.
+(2) The language of instruction in the Cognitive
+Science – Embodied Cognition program is English.
+15
+9
+9
 
-                                                         (3) Prerequisites for admission are:
+(3) The descriptions of the modules named in Section (1) are listed in the module catalog in Appendix 1 to these regulations
 
+6
 
-                                                                                                Page 3 of 24
+(4) A sample degree progress plan for the master’s
+degree is provided in Appendix 2 of these regulations.
+
+9
+
+§ 9 Stay Abroad
+
+15
+
+II. Electives (choice modules, CM) (Total 18 CP)
+Modules adding up to 18 credit points must be
+selected and successfully completed.
+CM_D1
+Developmental Science 6
+and Embodiment
+CM_D2
+Language and Develop- 6
+ment
+CM_D3
+Cognitive and Sensorimo- 6
+tor Development
+CM_N1
+Neurolinguistic Perspec- 6
+tives
+CM_N2
+Philosophy of Neurosci6
+ence and Embodied Cognition
+CM_N3
+Cognitive Neuroscience, 6
+Neuropsychology and the
+Body
+III. Bridge Modules (9 CP)
+In addition to the elective modules, there are Bridge
+Modules (BM) that, depending on the student’s
+prior education, are meant to close gaps in the student’s knowledge of “Experimental Psychological
+Training” or “Applied Mathematics” (9 CP). The
+Examining Board will determine upon admission to
+the master’s program which of the two modules
+(BM1 or BM2) must be completed. If the Examining Board finds that the student has sufficient
+knowledge in both Bridge Module fields, then 9 CP
+will be earned in the BM3 laboratory training
+course, the content of which shall be determined by
+the head of the respective laboratory.
+BM1
+Bridge Module: “Experi- 9
+mental Psychological Training”
+BM2
+Bridge Module: “Applied 9
+Mathematics”
+BM3
+Laboratory Internship
+9
+III. Master’s Thesis (30 CP)
+
+30
+
+Total obligatory and elective modules to
+be completed
+
+120
+
+A stay abroad during university study is possible; if
+one plans on spending a whole semester abroad,
+then the master’s thesis should be prepared during
+the fourth semester.
+§ 10 Master’s Thesis
+(1)
+As soon as the student has completed at least 75
+percent of the total required credit points, minus
+credit points for the thesis and the oral defense, he
+or she must immediately propose a topic for his/her
+master’s thesis.
+(2) The master’s thesis, including the oral defense,
+is equivalent to 30 credit points. The master’s thesis
+must be written in English.
+
+III. Ph.D. Program
+§ 11 Admission to the Ph.D. Program
+(1) Students or graduates of the master’s program in
+Cognitive Science – Embodied Cognition can apply
+for admission to the Ph.D. program. The application
+must include the following documents:
+- Degree certificate or overview of all coursework
+completed during the master’s program
+- Copy of the English-language master’s thesis
+- Project sketch for a research project that was prepared together with at least one of the persons authorized to supervise doctoral students.
+- A proposal by the student regarding the dissertation advisor or, if necessary, supervision authorization.
+(2) The application must be submitted by August 15
+at the latest. Students or graduates of a program
+similar to the master’s program in Cognitive Science – Embodied Cognition are also qualified to
+apply.
+(3) Prerequisites for admission are:
+
+Page 3 of 24
+
 Status:
 
+- Successful completion of a master’s degree
+- A well-articulated research orientation, as exhibited by a positive evaluation by one of the two dissertation supervisors
+- Acceptance as a doctoral student according to the
+doctoral degree regulations.
 
-- Successful completion of a master’s degree              DOC               Colloquium for Doctoral        12
-- A well-articulated research orientation, as exhibit-                      Candidates
-ed by a positive evaluation by one of the two disser-                       Cognitive Science Collo-
-tation supervisors                                        COG               quium                          12
-- Acceptance as a doctoral student according to the       PGS               Potsdam Graduate School        24
-doctoral degree regulations.                                                Courses
+DOC
 
-(4) After admission to the Ph.D. program has been         Dissertation and Defense                         60
-granted, you can apply for enrollment. The applica-
-tion for enrollment in the Ph.D. program must be          Total: 120 CP
+(4) After admission to the Ph.D. program has been
+granted, you can apply for enrollment. The application for enrollment in the Ph.D. program must be
 completed by March 15 to start in the Summer
-Semester or by September 15 to start in the Winter       (4) After discussion with both supervisors, candi-
-Semester.                                                dates can complete part of their dissertation in an
-                                                         external laboratory. The supervisors must ensure
-(5) Enrollment requires admission as a doctoral          that the partner institution names a suitable supervi-
-candidate under the applicable version of the regu-      sor.
-lations for a doctoral degree at the Human Sciences
-Faculty at the University of Potsdam.                    (5) The research project should typically be com-
-                                                         pleted within 2 years. In exceptional cases, up to
-(6) Students who hold a degree comparable to the         two one-semester extensions can be granted. No
-master’s degree in Cognitive Science - Embodied          additional credit points will be earned during these
-Cognition and have been admitted as a doctoral           additional semesters. If the FOR, DOC, COG and
-candidate under the applicable version of the regu-      PGS modules are not completed by the expiration
-lations for a doctoral degree at the Human Sciences      of these extension periods, the supervisory relation-
-Faculty at the University of Potsdam can apply for       ship is terminated, the candidate’s admission is
-acceptance to the Ph.D. program.                         revoked, and the possibility of completing the dis-
-                                                         sertation is eliminated. The provisions of Article 11
-(7) The Examining Board makes decisions about            Para 3 of the Registration Regulations apply.
+Semester or by September 15 to start in the Winter
+Semester.
+
+Dissertation and Defense
+
+(5) Enrollment requires admission as a doctoral
+candidate under the applicable version of the regulations for a doctoral degree at the Human Sciences
+Faculty at the University of Potsdam.
+(6) Students who hold a degree comparable to the
+master’s degree in Cognitive Science - Embodied
+Cognition and have been admitted as a doctoral
+candidate under the applicable version of the regulations for a doctoral degree at the Human Sciences
+Faculty at the University of Potsdam can apply for
+acceptance to the Ph.D. program.
+(7) The Examining Board makes decisions about
 the comparability of master’s qualifications; the
 Doctoral Committee makes decisions regarding the
-acceptance of the application.                           § 13 Doctoral Studies
-§ 12 Duration and Organization of the Second             (1) Upon consultation with the supervisors and after
-Segment of the Master’s/Ph.D. Program                    the successful completion of the modules, an appli-
-                                                         cation is submitted to initiate the doctoral examina-
-(1) In accordance with the regulations for a doctoral    tion procedure.
+acceptance of the application.
+§ 12 Duration and Organization of the Second
+Segment of the Master’s/Ph.D. Program
+(1) In accordance with the regulations for a doctoral
 degree, the candidate will conclude a supervision
-agreement with the primary and secondary supervi-        (2) The doctoral examination procedure is conduct-
-sors.                                                    ed in accordance with the doctoral degree regula-
-                                                         tions.
-(2) During the two-year Ph.D. program, the candi-
-date primarily works independently on his/her re-        § 14 Application, Expiration and Transitional
-search project in accordance with the supervision        Provisions
+agreement with the primary and secondary supervisors.
+(2) During the two-year Ph.D. program, the candidate primarily works independently on his/her research project in accordance with the supervision
 agreement and completes the modules for the Ph.D.
-program.                                                 (1) These regulations take effect on the day of their
-                                                         publication in the Official Public Notices of the
-(3) Students must complete credit points in the          University of Potsdam.
-following modules to continue their interdiscipli-
-nary education.                                          (2) These regulations apply to all students who
-                                                         enroll in the master’s program in Cognitive Science
- Ph.D. Study                                             – Embodied Cognition at the University of Potsdam
- Module Ab-        Name of Module                 Cre    after these regulations go into effect.
- breviation                                       dits
+program.
+(3) Students must complete credit points in the
+following modules to continue their interdisciplinary education.
+Ph.D. Study
+Module Abbreviation
 
- FOR               Progress Reports               12
+Name of Module
 
+Cre
+dits
 
+FOR
 
+Progress Reports
 
-                                                                                               Page 4 of 24
+12
+
+COG
+PGS
+
+Colloquium for Doctoral
+Candidates
+Cognitive Science Colloquium
+Potsdam Graduate School
+Courses
+
+12
+12
+24
+
+60
+
+Total: 120 CP
+(4) After discussion with both supervisors, candidates can complete part of their dissertation in an
+external laboratory. The supervisors must ensure
+that the partner institution names a suitable supervisor.
+(5) The research project should typically be completed within 2 years. In exceptional cases, up to
+two one-semester extensions can be granted. No
+additional credit points will be earned during these
+additional semesters. If the FOR, DOC, COG and
+PGS modules are not completed by the expiration
+of these extension periods, the supervisory relationship is terminated, the candidate’s admission is
+revoked, and the possibility of completing the dissertation is eliminated. The provisions of Article 11
+Para 3 of the Registration Regulations apply.
+
+§ 13 Doctoral Studies
+(1) Upon consultation with the supervisors and after
+the successful completion of the modules, an application is submitted to initiate the doctoral examination procedure.
+(2) The doctoral examination procedure is conducted in accordance with the doctoral degree regulations.
+§ 14 Application, Expiration and Transitional
+Provisions
+(1) These regulations take effect on the day of their
+publication in the Official Public Notices of the
+University of Potsdam.
+(2) These regulations apply to all students who
+enroll in the master’s program in Cognitive Science
+– Embodied Cognition at the University of Potsdam
+after these regulations go into effect.
+
+Page 4 of 24
+
 Status:
-
 
 Appendix 1: Module Catalog for the Master’s Program
 
-
-                                                                                    Number of credit points (CP):
 OM1 Cognitive Science and Embodied Cognition
-                                                                                    15
-Module type (mandatory or elective):      Mandatory module
-                                          Objectives: Students have a solid knowledge of concepts in the cogni-
-                                          tive sciences and embodied cognition. This forms the foundation that
-                                          allows students to independently develop and critically assess scientific
-                                          literature on current issues in the cognitive sciences and the Embodied
-                                          Cognition research field. Students can derive predictions for specific
-                                          problems by drawing on theories from the cognitive sciences and the
-                                          theory of Embodied Cognition. They can develop experimental ar-
-                                          rangements for theoretically derived hypotheses.
+Module type (mandatory or elective):
 
-                                          Contents: This lecture offers a comprehensive overview of the inter-
-                                          disciplinary field of cognitive sciences and Embodied Cognition while
 Content and objective of module:
-                                          taking into account selected topics from different perspectives (for
-                                          example, sensory and motor components in the representation of
-                                          knowledge). This course also focuses on reading about and discussing
-                                          current research questions. In the accompanying seminar, students
-                                          develop central concepts from the lectures, working from original liter-
-                                          ature, while simultaneously teaching students from various bachelor’s
-                                          programs about the integration of specific sub-fields (for example,
-                                          psychophysics, motor skills, cognitive psychology) into the cognitive
-                                          sciences. The completion of trial research hours (meaning participation
-                                          in experiments as a subject) contribute to learning about the experi-
-                                          mental treatment of research questions.
-Module examination (number, form,         Course-related module examination(s); see below
+
+Module examination (number, form,
 scope):
-                                          395 (preparation for and review of courses and presentations; exam
-Independent study time (in hours):
-                                          preparation)
 
-                                                    Supplementary exam work
-                                                     (number, form, scope)                      Module examina-
-                                   Contact time
-                                                                                    For admis- tion
-Courses (type of teaching)          (in semester
-                                                                                    sion to the (number, form,
-                                    hours)           For completing the module
-                                                                                    module      scope)
-                                                                                    exam
-                                      2              Three written summaries                      Written exam
-Lecture (6 CP)                                       of studies discussed in                      (90 min)
-                                                     class (1000 words each)
-                                      2              2 Presentations and written
-Seminar (8 CP)                                       term papers (5000 words
-                                                     each)
-Participation in experiments (1       0              10 Research subject hours
-CP)                                                  (= 1 semester hour)
+Contents: This lecture offers a comprehensive overview of the interdisciplinary field of cognitive sciences and Embodied Cognition while
+taking into account selected topics from different perspectives (for
+example, sensory and motor components in the representation of
+knowledge). This course also focuses on reading about and discussing
+current research questions. In the accompanying seminar, students
+develop central concepts from the lectures, working from original literature, while simultaneously teaching students from various bachelor’s
+programs about the integration of specific sub-fields (for example,
+psychophysics, motor skills, cognitive psychology) into the cognitive
+sciences. The completion of trial research hours (meaning participation
+in experiments as a subject) contribute to learning about the experimental treatment of research questions.
+Course-related module examination(s); see below
 
-Offered:                                             Each year (in the winter semester)
-Prerequisite for taking the module:                  None
-                                                     Psychology (interdisciplinary professorship in cognitive
+Contact time
+(in semester
+hours)
+
+Offered:
+Prerequisite for taking the module:
+
+For completing the module
+Three written summaries
+of studies discussed in
+class (1000 words each)
+
+2
+
+2 Presentations and written
+term papers (5000 words
+each)
+
+0
+
+10 Research subject hours
+(= 1 semester hour)
+
+Seminar (8 CP)
+Participation in experiments (1
+CP)
+
+Supplementary exam work
+(number, form, scope)
+
+2
+Lecture (6 CP)
+
 Teaching unit(s):
-                                                     sciences)
 
+Mandatory module
+Objectives: Students have a solid knowledge of concepts in the cognitive sciences and embodied cognition. This forms the foundation that
+allows students to independently develop and critically assess scientific
+literature on current issues in the cognitive sciences and the Embodied
+Cognition research field. Students can derive predictions for specific
+problems by drawing on theories from the cognitive sciences and the
+theory of Embodied Cognition. They can develop experimental arrangements for theoretically derived hypotheses.
 
+395 (preparation for and review of courses and presentations; exam
+preparation)
 
+Independent study time (in hours):
 
-                                                                                                    Page 5 of 24
+Courses (type of teaching)
+
+Number of credit points (CP):
+15
+
+Module examinaFor admis- tion
+sion to the (number, form,
+scope)
+module
+exam
+Written exam
+(90 min)
+
+Each year (in the winter semester)
+None
+Psychology (interdisciplinary professorship in cognitive
+sciences)
+
+Page 5 of 24
+
 Status:
 
-
-                                                                                   Number of credit points
 OM2 Mathematical Modeling in Neurocognitive Psychology
-                                                                                   (CP): 9
-Module type (mandatory or elective):                 Mandatory module
-                                                     Objectives: Students will gain broad, well-established
-                                                     skills in mathematical modeling methods for neurocog-
-                                                     nitive processes and systems. Students will be able to
-                                                     work from this foundation to independently develop and
-                                                     critically assess current scientific literature on current
-                                                     issues in psychology and the neurosciences. Students
-                                                     will be able to select and implement suitable methods
-                                                     for specific problems in the mathematical description of
-                                                     cognitive systems.
-                                                     Students will be able to derive experimental predictions
-                                                     from neurocognitive models and quantify them by
-                                                     means of mathematical models.
 
-Content and objective of module:                     Contents: This module deals with the most important
-                                                     mathematical modeling approaches in neurocognitive
-                                                     processes and systems in the lecture course, with a focus
-                                                     on stochastic processes (i.e., random walk models) and
-                                                     dynamic systems (i.e., discrete representations or sys-
-                                                     tems of ordinary differential equations). The seminar
-                                                     also focuses on working with computers to implement
-                                                     mathematical models and problems associated with this
-                                                     process.
-Module examination (number, form, scope):            Course-related module examination(s); see below
-                                                     225 (preparation for and review of courses; homework;
-Independent study time (in hours):
-                                                     exam preparation)
+Number of credit points
+(CP): 9
 
-                                                          Supplementary exam work (num-
-                                       Contact time       ber, form, scope)               Module exami-
-Courses (type of teaching)              (in      semester                   For admission nation (number,
-                                                           For complet-
-                                        hours)                              to the module form, scope)
-                                                           ing the module
-                                                                            exam
-                                        2                                                 Written exam
-Lecture (5 CP)
-                                                                                              (90 min)
-Seminar (4 CP)                          2
+Module type (mandatory or elective):
 
-Offered:                                                  Each year (in the summer semester)
-Prerequisite for taking the module:                       None
-                                                          Psychology (Professor of General and Biological
-Teaching unit(s):
-                                                          Psychology)
+Mandatory module
+Objectives: Students will gain broad, well-established
+skills in mathematical modeling methods for neurocognitive processes and systems. Students will be able to
+work from this foundation to independently develop and
+critically assess current scientific literature on current
+issues in psychology and the neurosciences. Students
+will be able to select and implement suitable methods
+for specific problems in the mathematical description of
+cognitive systems.
+Students will be able to derive experimental predictions
+from neurocognitive models and quantify them by
+means of mathematical models.
 
-
-
-
-                                                                                               Page 6 of 24
-Status:
-
-
-
-OM3 Neuroscience of Embodied Cognition                                        Number of credit points (CP): 9
-Module type (mandatory or elective):               Mandatory
-                                                   Objectives: Students will gain a solid knowledge of neu-
-                                                   rocognitive foundations and experimental methods in
-                                                   embodied cognition. Students will be able to use literature
-                                                   in the cognitive neurosciences to develop current research
-                                                   questions and to critically examine published researched
-                                                   results. Students will be able to choose the appropriate
-                                                   neuroscientific methods for testing theoretically derived
-                                                   hypotheses.
-
-                                                   Contents: This lecture offers a comprehensive overview
-                                                   of the interdisciplinary field of cognitive neurosciences
 Content and objective of module:
-                                                   while taking into account selected topics from different
-                                                   perspectives (for example, being able to understand and
-                                                   explain the advantages and disadvantages of various imag-
-                                                   ing methods; comparing evaluation strategies in a com-
-                                                   parative manner). This course also focuses on analyzing
-                                                   and discussing current research questions.
-                                                   In the accompanying seminar, students develop central
-                                                   concepts from the lectures, working from original litera-
-                                                   ture, while simultaneously teaching students from various
-                                                   bachelor’s programs about the integration of specific sub-
-                                                   fields into the cognitive sciences.
-Module examination (number, form, scope):          Course-related module examination(s); see below
-                                                   225 (preparation for and review of courses and presenta-
+
+Contents: This module deals with the most important
+mathematical modeling approaches in neurocognitive
+processes and systems in the lecture course, with a focus
+on stochastic processes (i.e., random walk models) and
+dynamic systems (i.e., discrete representations or systems of ordinary differential equations). The seminar
+also focuses on working with computers to implement
+mathematical models and problems associated with this
+process.
+Course-related module examination(s); see below
+225 (preparation for and review of courses; homework;
+exam preparation)
+
+Module examination (number, form, scope):
 Independent study time (in hours):
-                                                   tions; exam preparation)
 
-                                                           Supplementary exam work
-                                                                                            Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                            tion
-Courses (type of teaching)             (in      semester                      For admission
-                                                            For completing                    (number, form,
-                                       hours)                                 to the module
-                                                            the module                        scope)
-                                                                              exam
-                                       2                    Three written                     Written exam
-                                                            summaries of                      (90 min)
-                                                            studies    dis-
 Lecture (5 CP)
-                                                            cussed in class
-                                                            (1000    words
-                                                            each)
-                                       2                    1 Presentation
-Seminar (4 CP)                                              and term paper
-                                                            (5000 words)
 
-Offered:                                                    Each year (in the summer semester)
-Prerequisite for taking the module:                         None
-                                                            Psychology (interdisciplinary professorship     in
+Supplementary exam work (number, form, scope)
+Contact time
+Module exami(in
+semester
+For admission nation (number,
+For complethours)
+to the module form, scope)
+ing the module
+exam
+2
+Written exam
+
+Seminar (4 CP)
+
+2
+
+Courses (type of teaching)
+
+Offered:
+Prerequisite for taking the module:
 Teaching unit(s):
-                                                            cognitive sciences)
 
+(90 min)
 
+Each year (in the summer semester)
+None
+Psychology (Professor of General and Biological
+Psychology)
 
+Page 6 of 24
 
-                                                                                               Page 7 of 24
 Status:
 
+OM3 Neuroscience of Embodied Cognition
+Module type (mandatory or elective):
 
+Content and objective of module:
 
+Module examination (number, form, scope):
+Independent study time (in hours):
 
-OM4 Advanced Methods: Experimental Programming                      Number of credit points (CP): 6
-Module type (mandatory or elective):        Mandatory
-                                            Objectives: You will gain broad and well-founded
-                                            knowledge in experimental-psychological and psycho-
-                                            physical methods, especially in the computer-aided
-                                            implementation of experimental designs with program-
-                                            ming languages such as Matlab / Psychophysics
-                                            Toolbox or Python. You will master time-controlled
-                                            stimulus presentation, reaction measurement, and the
-                                            foundations of presenting animated stimuli.
-                                            Students will be able to work from this basis to inde-
-                                            pendently plan experiments and carry them out in an
-                                            experimental control. Students will master basic
-                                            knowledge of a programming language, methods in
-                                            reaction time and error measurement, as well as classical
-                                            and adaptive psychophysical processes.
+Courses (type of teaching)
 
-                                                     Contents: Planning and construction of an experimental
-Content and objective of module:                     control system; implementation by means of appropriate
-                                                     programming languages; structuring and evaluation of
-                                                     experimental designs; identification of advantages and
-                                                     disadvantages.
-Module examination (number, form, scope):            Course-related module examination(s); see below
-Independent study time (in hours):                   135
+Lecture (5 CP)
 
-                                                           Supplementary exam work
-                                                                                           Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                           tion
-Courses (type of teaching)             (in      semester                      For   admis-
-                                                            For completing                   (number, form,
-                                       hours)                                 sion to the
-                                                            the module                       scope)
-                                                                              module exam
-                                       2                                                     1-hour project
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Contents: This lecture offers a comprehensive overview
+of the interdisciplinary field of cognitive neurosciences
+while taking into account selected topics from different
+perspectives (for example, being able to understand and
+explain the advantages and disadvantages of various imaging methods; comparing evaluation strategies in a comparative manner). This course also focuses on analyzing
+and discussing current research questions.
+In the accompanying seminar, students develop central
+concepts from the lectures, working from original literature, while simultaneously teaching students from various
+bachelor’s programs about the integration of specific subfields into the cognitive sciences.
+Course-related module examination(s); see below
+225 (preparation for and review of courses and presentations; exam preparation)
+
+Contact time
+(in
+semester
+hours)
+2
+
+Seminar (4 CP)
+
+Number of credit points (CP): 9
+Mandatory
+Objectives: Students will gain a solid knowledge of neurocognitive foundations and experimental methods in
+embodied cognition. Students will be able to use literature
+in the cognitive neurosciences to develop current research
+questions and to critically examine published researched
+results. Students will be able to choose the appropriate
+neuroscientific methods for testing theoretically derived
+hypotheses.
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+Three written
+Written exam
+summaries of
+(90 min)
+studies
+discussed in class
+(1000
+words
+each)
+1 Presentation
+and term paper
+(5000 words)
+Each year (in the summer semester)
+None
+Psychology (interdisciplinary professorship
+cognitive sciences)
+
+in
+
+Page 7 of 24
+
+Status:
+
+Number of credit points (CP): 6
+OM4 Advanced Methods: Experimental Programming
+Module type (mandatory or elective):
+Mandatory
+Objectives: You will gain broad and well-founded
+knowledge in experimental-psychological and psychophysical methods, especially in the computer-aided
+implementation of experimental designs with programming languages such as Matlab / Psychophysics
+Toolbox or Python. You will master time-controlled
+stimulus presentation, reaction measurement, and the
+foundations of presenting animated stimuli.
+Students will be able to work from this basis to independently plan experiments and carry them out in an
+experimental control. Students will master basic
+knowledge of a programming language, methods in
+reaction time and error measurement, as well as classical
+and adaptive psychophysical processes.
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
 Seminar or tutorial (6 CP)
-                                                                                             presentation
-
-Offered:                                                    Each year (in the summer semester)
-Prerequisite for taking the module:                         None
-Teaching unit(s):                                           Psychology (professor of cognitive sciences)
-
-
-
-
-                                                                                                Page 8 of 24
-Status:
-
-
-
-
-OM5: Advanced Methods: Multivariate Statistics                                  Number of credit points (CP): 9
-Module type (mandatory or elective):                        Mandatory
-                                                            Objectives: Students will be able to carry out statis-
-                                                            tical analysis of experimental data independently
-                                                            and appropriately in order to test scientific hypoth-
-                                                            eses. They will gain a solid overview of multivari-
-                                                            ate statistical procedures.
-
-                                                            Contents: Knowledge of the general linear model
-Content and objective of module:                            and processes that are built upon it.
-                                                            Preparation of raw data for visualization and statis-
-                                                            tical analysis, as well as the statistical evaluation of
-                                                            theoretically derived hypotheses.
-                                                            Communication of relevant knowledge by means
-                                                            of guided evaluation of sample data sets and dis-
-                                                            cussion of case studies, including the integration of
-                                                            current literature.
-Module examination (number, form, scope):                   Course-related module examination(s); see below
-Independent study time (in hours):                          225
-
-                                                           Supplementary exam work
-                                                                                            Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                            tion
-Courses (type of teaching)             (in      semester                      For admission
-                                                            For completing                    (number, form,
-                                       hours)                                 to the module
-                                                            the module                        scope)
-                                                                              exam
-                                       2                                                      Written exam
-Lecture/Seminar (5 CP)
-                                                                                              (90 min)
-Tutorial (4 CP)                        2
-
-Offered:                                                    Each year (in the winter semester)
-Prerequisite for taking the module:                         None
-                                                            Linguistics (Professor of Psycho- and Neurolin-
-Teaching unit(s):                                           guistics, 50%) and psychology (General Psycholo-
-                                                            gy 1: Cognition, 50%).
-
-
-
-
-                                                                                                   Page 9 of 24
-Status:
-
-
-
-
-OM6: Individual Research Module                                                 Number of credit points (CP): 15
-Module type (mandatory or elective):                         Mandatory
-                                                             Objectives: Students will be able, with guidance, to
-                                                             solve sub-problems in experimental and/or theoret-
-                                                             ical inquiry for a clearly defined scientific question.
-                                                             The students will be able to carry forward partial
-                                                             results from previous investigations and prepare
-                                                             their own results in a suitable form for teamwork.
-
-Content and objective of module:                             Contents: Students will participate in current re-
-                                                             search projects, accompanying the planning, execu-
-                                                             tion, and evaluation of a study in the cognitive
-                                                             sciences (including statistical procedures and/or
-                                                             mathematical models). They learn how to structure
-                                                             problems, organize their work time, and work in a
-                                                             team. Content is determined in cooperation with
-                                                             the chosen laboratory and the supervising scientist.
-Module examination (number, form, scope):                    Scientific report (approx. 5000 words)
-Independent study time (in hours):                           450
-
-                                                            Supplementary exam work
-                                                                                             Module examina-
-                                       Contact time          (number, form, scope)
-                                                                                             tion
-Courses (type of teaching)              (in      semester                      For admission
-                                                             For completing                    (number, form,
-                                        hours)                                 to the module
-                                                             the module                        scope)
-                                                                               exam
-None                                    0
-
-Offered:                                                     Every semester
+Offered:
 Prerequisite for taking the module:
-                                                             Psychology (Professor of Cognitive Sciences, 50%,
 Teaching unit(s):
-                                                             and General and Biological Psychology, 50%)
 
+Contents: Planning and construction of an experimental
+control system; implementation by means of appropriate
+programming languages; structuring and evaluation of
+experimental designs; identification of advantages and
+disadvantages.
+Course-related module examination(s); see below
+135
 
+Contact time
+(in
+semester
+hours)
+2
 
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For
+admis(number, form,
+For completing
+sion to the
+scope)
+the module
+module exam
+1-hour project
+presentation
+Each year (in the summer semester)
+None
+Psychology (professor of cognitive sciences)
 
-                                                                                                  Page 10 of 24
+Page 8 of 24
+
 Status:
 
+OM5: Advanced Methods: Multivariate Statistics
+Module type (mandatory or elective):
 
-
-
-BM1 Bridge Module: Experimental Psychological Training                  Number of credit points (CP): 9
-                                                     Obligatory module, depending on the decision by
-                                                     the Examining Board regarding admission to stud-
-Module type (obligatory or elective):
-                                                     ies (see Article 4 of the subject-specific Admission
-                                                     Regulations)
-                                                     Objectives: Students will gain broad background
-                                                     knowledge in experimental-psychological scientific
-Content and objective of module:                     work for an interdisciplinary course of study.
-
-                                                          Contents: Experimental Psychological Training.
-Module examination (number, form, scope):                 Course-related module examination(s), see below
-Independent study time (in hours):                        135-160
-
-                                                         Supplementary exam work            Module examina-
-                                      Contact time                                          tion
-                                                          (number, form, scope)
-Courses (type of teaching)
-                                       (in    semester                      For admission    (number, form,
-                                                          For completing
-                                       hours)                               to the module
-                                                          the module
-                                                                            exam             scope)
-Experimental Psychological Training    4                                                     Poster presen-
-(9 CP)                                                                                       tation (1 hour)
-
-Offered:                                                  Each year (in the winter semester)
-                                                          Decision by the Examining Board regarding ad-
-Prerequisite for taking the module:
-                                                          mission to studies.
-Teaching unit(s):                                         Psychology (professor of cognitive sciences)
-
-
-
-
-                                                                                            Page 11 of 24
-Status:
-
-
-
-
-BM2 Bridge Module: “Applied Mathematics”                                       Number of credit points (CP): 9
-                                                            Obligatory module, depending on the decision by
-                                                            the Examining Board regarding admission to studies
-Module type (obligatory or elective):
-                                                            (see Article 4 of the subject-specific Admission
-                                                            Regulations)
-                                                            Objectives: Students will gain broad background
-                                                            knowledge in applied mathematics (linear algebra,
-                                                            analysis) for an interdisciplinary course of study.
 Content and objective of module:
 
-
-                                                            Contents: A bridge course in Applied / Interdiscipli-
-                                                            nary Mathematics (analysis and linear algebra).
-Module examination (number, form, scope):                   Written exam (90 min) or an oral exam (30 min)
-Independent study time (in hours):                          135-160
-
-                                                           Supplementary exam work            Module examina-
-                                        Contact time                                          tion
-                                                            (number, form, scope)
-Courses (type of teaching)
-                                         (in    semester                     For admission      (number, form,
-                                                            For completing
-                                         hours)                              to the module
-                                                            the module
-                                                                             exam               scope)
-Video lecture Analysis and Linear        0
-Algebra (3 CP)
-Mathematics tutorial (6 CP)              2
-
-Offered:                                                    Each year (in the winter semester)
-                                                            Decision by the Examining Board regarding admis-
-Prerequisite for taking the module:
-                                                            sion to studies.
-                                                            Psychology (Professor of General and Biological
-Teaching unit(s):
-                                                            Psychology)
-
-
-
-
-                                                                                                Page 12 of 24
-Status:
-
-
-
-
-BM3 Bridge Module: Laboratory Training                                         Number of credit points (CP): 9
-                                                            Obligatory module, depending on the decision by
-                                                            the Examining Board regarding admission to stud-
-Module type (obligatory or elective):
-                                                            ies (see Article 4 of the subject-specific Admission
-                                                            Regulations)
-                                                            Objectives: Students will learn about the process of
-                                                            project-oriented research, the coordination of scien-
-                                                            tific workflows, laboratory organization and docu-
-                                                            mentation, and leadership in scientific teams.
-Content and objective of module:
-                                                            Contents: Laboratory practice in one of the work-
-                                                            ing groups run by instructors participating in the
-                                                            program.
-Module examination (number, form, scope):                   Work report (2000 words)
-Independent study time (in hours):                          135-160
-
-                                                           Supplementary exam work             Module examina-
-                                        Contact time                                           tion
-                                                            (number, form, scope)
-Courses (type of teaching)
-                                         (in    semester                      For admission      (number, form,
-                                                            For completing
-                                         hours)                               to the module
-                                                            the module
-                                                                              exam               scope)
-Laboratory Training (9 CP)               0
-
-Offered:                                                    Each year (in the winter semester)
-                                                            Decision by the Examining Board regarding ad-
-Prerequisite for taking the module:
-                                                            mission to studies.
-Teaching unit(s):                                           Psychology (Professor of Cognitive Sciences)
-
-
-
-
-                                                                                                Page 13 of 24
-Status:
-
-
-
-CM_D1: Developmental Science and Embodiment                           Number of credit points (CP): 6
-Module type (obligatory or elective):     Elective module
-                                          Objectives: Students will gain enhanced knowledge of cur-
-                                          rent research questions in developmental psychology and
-                                          concept acquisition, including issues from the perspective of
-                                          embodied knowledge. Students will be able to see interrela-
-                                          tions between relevant theories and to critically examine
-Content and objective of module:          them. They will be able to identify and solve practice-
-                                          oriented problems.
-                                          Contents: Seminars on developmental psychology and
-                                          knowledge acquisition and related topics, as well as the role
-                                          of the body and activity planning in cognition across the
-                                          lifespan.
-                                          Presentation (60 min) with written elaboration (20 pages) or
-Module exam (number, form, scope):
-                                          oral examination (30 min)
-Independent study time (in hours):        135
-
-                                                           Supplementary exam work
-                                                                                            Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                            tion
-Courses (type of teaching)             (in      semester                      For admission
-                                                            For completing                    (number, form,
-                                       hours)                                 to the module
-                                                            the module                        scope)
-                                                                              exam
-Seminar (6 CP)                         2
-
-Offered:                                                    Each year (in the winter semester)
-Prerequisite for taking the module:                         None
-                                                            Psychology (Professor of Developmental Psychol-
-Teaching unit(s):
-                                                            ogy)
-
-
-
-
-                                                                                           Page 14 of 24
-Status:
-
-
-
-CM_D2: Language and Development                                                Number of credit points (CP): 6
-Module type (obligatory or elective):                  Elective module
-                                                       Objectives: Students will gain enhanced knowledge of
-                                                       current research questions in language acquisition, in-
-                                                       cluding the role of sensory and motor processes in the
-                                                       acquisition of knowledge. Students will be able to see
-                                                       interrelations between relevant theories and to critically
-Content and objective of module:
-                                                       examine them. They will be able to identify and solve
-                                                       practice-oriented problems.
-                                                       Contents: Seminars on language acquisition and related
-                                                       topics in knowledge acquisition, including sensomotoric
-                                                       aspects.
-                                                       Presentation (60 min) with written elaboration (20 pag-
 Module examination (number, form, scope):
-                                                       es) or oral examination (30 min)
-Independent study time (in hours):                     135
-
-                                                             Supplementary exam work
-                                                                                              Module examina-
-                                        Contact time          (number, form, scope)
-                                                                                              tion
-Courses (type of teaching)               (in      semester                      For admission
-                                                              For completing                    (number, form,
-                                         hours)                                 to the module
-                                                              the module                        scope)
-                                                                                exam
-Seminar (6 CP)                           2
-
-Offered:                                                      Each year (in the summer semester)
-Prerequisite for taking the module:                           None
-                                                              Linguistics (Professor of Psycholinguistics with a
-Teaching unit(s):
-                                                              focus on language acquisition)
-
-
-
-
-                                                                                                Page 15 of 24
-Status:
-
-
-
-
-CM_D3: Cognitive and Sensorimotor Development                                  Number of credit points (CP): 6
-Module type (obligatory or elective):                       Elective module
-                                                            Objectives: Students will gain enhanced knowledge
-                                                            of current research questions in developmental
-                                                            psychology and language acquisition. Students will
-                                                            be able to see interrelations between relevant theo-
-                                                            ries and to critically examine them. They will be
-Content and objective of module:                            able to identify and solve practice-oriented prob-
-                                                            lems.
-                                                            Contents: Seminars on developmental psychology,
-                                                            language acquisition, and related topics in cogni-
-                                                            tive development, including sensomotoric compo-
-                                                            nents.
-                                                            Presentation (60 min) with written elaboration (20
-Module examination (number, form, scope):
-                                                            pages) or oral examination (30 min)
-Independent study time (in hours):                          135
-
-                                                           Supplementary exam work
-                                                                                            Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                            tion
-Courses (type of teaching)             (in      semester                      For admission
-                                                            For completing                    (number, form,
-                                       hours)                                 to the module
-                                                            the module                        scope)
-                                                                              exam
-Seminar (6 CP)                         2
-
-                                                            Every two years in the winter semester; offered as
-Offered:                                                    an exception in the summer semester if demand
-                                                            warrants it
-Prerequisite for taking the module:                         None
-                                                            Psychology (Professor of Developmental Psychol-
-Teaching unit(s):                                           ogy, 50%) and linguistics (Professor of Psycholin-
-                                                            guistics with a focus on language acquisition, 50%)
-
-
-
-
-                                                                                               Page 16 of 24
-Status:
-
-
-
-CM_N1: Neurolinguistic Perspectives                                              Number of credit points (CP): 6
-Module type (obligatory or elective):                         Elective module
-                                                              Objectives: Students will gain profound knowledge
-                                                              of current research questions in the neurosciences,
-                                                              neuropsychology, and neurolinguistics. They will
-                                                              be able to compare relevant theories and critically
-                                                              analyze them. Students will be able to apply, adapt,
-                                                              or develop new neuroscientific methods or models
-Content and objective of module:
-                                                              for a specific problem in current research. They
-                                                              will recognize the symptoms of brain function
-                                                              disorders and their treatment.
-                                                              Contents: Seminars on neurolinguistics and linguis-
-                                                              tic-psychological aspects of the cognitive neurosci-
-                                                              ences and related topics
-                                                              Presentation (60 min) with written elaboration (20
-Module examination (number, form, scope):
-                                                              pages) or oral examination (30 min)
-Independent study time (in hours):                            135
-
-                                                             Supplementary exam work
-                                                                                              Module examina-
-                                        Contact time          (number, form, scope)
-                                                                                              tion
-Courses (type of teaching)               (in      semester                      For admission
-                                                              For completing                    (number, form,
-                                         hours)                                 to the module
-                                                              the module                        scope)
-                                                                                exam
-Seminar (6 CP)                           2
-
-Offered:                                                      Every winter semester
-Prerequisite for taking the module:                           None
-Teaching unit(s):                                             Linguistics (Professor of Patholinguistics)
-
-
-
-
-                                                                                                 Page 17 of 24
-Status:
-
-
-CM_N2: Philosophy of Neuroscience and Embodied Cognition              Number of credit points (CP): 6
-Module type (obligatory or elective):              Elective module
-                                                   Objectives: Students will gain profound knowledge
-                                                   of neurophilosophical theories of human
-                                                   knowledge and cognition, as well as current ques-
-                                                   tions in relevant subfields of philosophy. They will
-                                                   be able to compare relevant theories and critically
-Content and objective of module:                   analyze them. Students will be able to adapt or
-                                                   develop new paradigms or models for a specific
-                                                   problem in current research. Examples of content:
-                                                   Epistemology, theories of the representation of
-                                                   knowledge and their relations to sensory and motor
-                                                   activity; agency and free will.
-                                                   Presentation (60 min) with written elaboration (20
-Module examination (number, form, scope):
-                                                   pages) or oral examination (30 min)
-Independent study time (in hours):                 135
-
-                                                           Supplementary exam work
-                                                                                            Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                            tion
-Courses (type of teaching)             (in      semester                      For admission
-                                                            For completing                    (number, form,
-                                       hours)                                 to the module
-                                                            the module                        scope)
-                                                                              exam
-Seminar (6 CP)                         2
-
-Offered:                                                    Every summer semester
-Prerequisite for taking the module:                         None
-Teaching unit(s):                                           Philosophy (Professor of Theoretical Philosophy)
-
-
-
-
-                                                                                              Page 18 of 24
-Status:
-
-
-CM_N3: Cognitive Neuroscience, Neuropsychology and the Body             Number of credit points (CP): 6
-Module type (obligatory or elective):                Elective module
-                                                     Objectives: Students will gain advanced knowledge
-                                                     of theories of neuropsychology, functional perspec-
-                                                     tives in neuropsychology, and the rehabilitation of
-                                                     human cognition. They will be able to compare
-                                                     relevant theories and methods and critically ana-
-                                                     lyze them. Students will be able to apply, adapt, or
-                                                     develop new therapeutic methods to a specific
-Content and objective of module:
-                                                     problem in current neuropsychological research.
-                                                     They will recognize the symptoms of physical and
-                                                     mental disorders and their treatment.
-                                                     Contents: Neuroplasticity, visual deficits, right-
-                                                     hemisphere syndromes, emotional disorders, and
-                                                     their treatment; memory disorders, test procedures,
-                                                     and rehabilitation approaches.
-                                                     Presentation (60 min) with written elaboration (20
-Module examination (number, form, scope):
-                                                     pages) or oral examination (30 min)
-Independent study time (in hours):                   135
-
-                                                           Supplementary exam work
-                                                                                            Module examina-
-                                      Contact time          (number, form, scope)
-                                                                                            tion
-Courses (type of teaching)             (in      semester                      For admission
-                                                            For completing                    (number, form,
-                                       hours)                                 to the module
-                                                            the module                        scope)
-                                                                              exam
-Seminar (6 CP)                         2
-
-Offered:                                                    Every semester
-Prerequisite for taking the module:                         None
-                                                            Rehabilitation Sciences (Foundation Professor for
-Teaching unit(s):
-                                                            Rehabilitation Sciences)
-
-
-
-
-                                                                                             Page 19 of 24
-Status:
-
-
-
-Appendix 2: Module Catalog for the Ph.D. Program
-
-FOR “Progress Reports”                                                             Number of credits (CP): 12
-Module type (obligatory or elective):                 Mandatory
-                                                      Objectives: Students will be able to provide regular pro-
-                                                      gress reports on the status of a complex research project.
-Content and objective of module:
-                                                      Contents: Students will prepare a report on the progress of
-                                                      their dissertation project each semester. The scope and de-
-                                                      livery deadline are agreed upon with the supervisors.
-Module examination (number, form, scope):             Submission of 4 progress reports in one document
 Independent study time (in hours):
 
-                                                     Supplementary exam work
-                                                      (number, form, scope)                   Module examina-
-                                      Contact time
-                                                                                   For admis- tion
-Courses (type of teaching)             (in semes-
-                                                                                   sion to the (number, form,
-                                       ter hours)     For completing the module
-                                                                                   module       scope)
-                                                                                   exam
+Courses (type of teaching)
+
+Lecture/Seminar (5 CP)
+Tutorial (4 CP)
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Contact time
+(in
+semester
+hours)
+2
+
+Number of credit points (CP): 9
+Mandatory
+Objectives: Students will be able to carry out statistical analysis of experimental data independently
+and appropriately in order to test scientific hypotheses. They will gain a solid overview of multivariate statistical procedures.
+Contents: Knowledge of the general linear model
+and processes that are built upon it.
+Preparation of raw data for visualization and statistical analysis, as well as the statistical evaluation of
+theoretically derived hypotheses.
+Communication of relevant knowledge by means
+of guided evaluation of sample data sets and discussion of case studies, including the integration of
+current literature.
+Course-related module examination(s); see below
+225
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+Written exam
+(90 min)
+
+2
+Each year (in the winter semester)
+None
+Linguistics (Professor of Psycho- and Neurolinguistics, 50%) and psychology (General Psychology 1: Cognition, 50%).
+
+Page 9 of 24
+
+Status:
+
+Number of credit points (CP): 15
+
+OM6: Individual Research Module
+Module type (mandatory or elective):
+
+Mandatory
+Objectives: Students will be able, with guidance, to
+solve sub-problems in experimental and/or theoretical inquiry for a clearly defined scientific question.
+The students will be able to carry forward partial
+results from previous investigations and prepare
+their own results in a suitable form for teamwork.
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
 None
 
-Offered:                                              Every semester
-Prerequisite for taking the module:                   None
-Teaching unit(s):                                     All teaching units involved in the Ph.D program
+0
 
-
-
-
-                                                                                                Page 20 of 24
-Status:
-
-
-
-DOC “Colloquium for Doctoral Candidates”                                              Number of credits (CP): 12
-Module type (obligatory or elective):                 Mandatory
-                                                      Objectives: Students will be able to clearly and concisely
-                                                      present the partial results and research question of their
-                                                      dissertation project, or problems related in terms of content
-                                                      or method; they will also be able to stimulate construction
-Content and objective of module:                      scientific discussion of these topics.
-
-                                                      Contents:Students will hold a presentation each semester
-                                                      and actively participate in discussions in the doctoral collo-
-                                                      quium.
-Module examination (number, form, scope):             Course-related module examination(s); see below
-Independent study time (in hours):
-
-                                                     Supplementary exam work
-                                                      (number, form, scope)                    Module examina-
-                                      Contact time
-                                                                                    For admis- tion
-Courses (type of teaching)             (in semes-
-                                                                                    sion to the (number, form,
-                                       ter hours)     For completing the module
-                                                                                    module       scope)
-                                                                                    exam
-                                       2                                                           Presentation (at
-Seminar (12 CP)
-                                                                                                   least 30 min)
-
-Offered:                                              Every semester
-Prerequisite for taking the module:                   None
-                                                      Psychology (Interdisciplinary Professor of Cognitive Sci-
-Teaching unit(s):                                     ences, 50%; Professor of General and Biological Psycholo-
-                                                      gy, 50%).
-
-
-
-
-                                                                                                   Page 21 of 24
-Status:
-
-
-
-COG “Cognitive Science Colloquium”                                                    Number of credits (CP): 12
-Module type (obligatory or elective):                 Mandatory
-                                                      Objectives: Students will be able to critically evaluate cur-
-                                                      rent research in the field of the cognitive sciences, recognize
-                                                      connections between sub-fields, and organize these connec-
-                                                      tions into interdisciplinary contexts.
-Content and objective of module:
-                                                      Contents:Active participation in the colloquium in terms of
-                                                      preparation and, for example, organization of colloquiums,
-                                                      of discussion panels with guests, and laboratory tours.
-Module examination (number, form, scope):             Report (approx. 5000 words) on the seminar
-Independent study time (in hours):
-
-                                                     Supplementary exam work             Module examina-
-                                      Contact time
-                                                      (number, form, scope)              tion
-Courses (type of teaching)             (in semes-
-                                                      For completing For admission to the (number, form,
-                                       ter hours)
-                                                      the module        module exam        scope)
-Seminar (12 CP)                        2
-
-Offered:                                              Every semester
-Prerequisite for taking the module:                   None
-                                                      Psychology (Interdisciplinary Professor of Cognitive Sci-
-Teaching unit(s):                                     ences, 50%; Professor of General and Biological Psycholo-
-                                                      gy, 50%).
-
-
-
-
-                                                                                                   Page 22 of 24
-Status:
-
-
-
-PGS “Courses offered by the Potsdam Graduate School”                      Number of credits (CP): 24
-Module type (obligatory or elective):        Mandatory
-                                             Objectives: Students will enhance their capability for scien-
-                                             tific work by actively participating in English-language
-                                             courses offered by the Potsdam Graduate School.
-
-                                                      Contents:Students will complete a total of at least 4 PoGS
-Content and objective of module:
-                                                      courses, of which at least two are interdisciplinary courses
-                                                      (for example, “Scientific Writing” or “Career Develop-
-                                                      ment”) and one course that is close to their subject (for
-                                                      example, specific statistical methods). Each course earns 6
-                                                      CP.
-Module examination (number, form, scope):             PoGS certificate attesting to successful participation
-Independent study time (in hours):
-
-                                                     Supplementary exam work              Module examina-
-                                      Contact time
-                                                      (number, form, scope)               tion
-Courses (type of teaching)             (in semes-
-                                                      For   completing For admission to (number, form,
-                                       ter hours)
-                                                      the module          the module exam   scope)
-4 seminars or block courses (6 CP      2 semester
-each)                                  hours
-
-Offered:                                              Every semester
-Prerequisite for taking the module:                   None
-                                                      Potsdam Graduate School (PoGS)
-                                                      - Interdisciplinary courses: Offered by PoGS
+Offered:
+Prerequisite for taking the module:
 Teaching unit(s):
-                                                      - Subject-relevant courses: Staff from all participating
-                                                      teaching units under PoGS
 
+Contents: Students will participate in current research projects, accompanying the planning, execution, and evaluation of a study in the cognitive
+sciences (including statistical procedures and/or
+mathematical models). They learn how to structure
+problems, organize their work time, and work in a
+team. Content is determined in cooperation with
+the chosen laboratory and the supervising scientist.
+Scientific report (approx. 5000 words)
+450
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
 
+Every semester
+Psychology (Professor of Cognitive Sciences, 50%,
+and General and Biological Psychology, 50%)
 
+Page 10 of 24
 
-                                                                                                 Page 23 of 24
- Status:
+Status:
 
+Number of credit points (CP): 9
+BM1 Bridge Module: Experimental Psychological Training
+Obligatory module, depending on the decision by
+the Examining Board regarding admission to studModule type (obligatory or elective):
+ies (see Article 4 of the subject-specific Admission
+Regulations)
+Objectives: Students will gain broad background
+knowledge in experimental-psychological scientific
+work for an interdisciplinary course of study.
+Content and objective of module:
 
- Appendix 3: Degree progress plan
+Module examination (number, form, scope):
+Independent study time (in hours):
 
+Contents: Experimental Psychological Training.
+Course-related module examination(s), see below
+135-160
+Supplementary exam work
 
-                           8th
-                                          FOR             DOC              COG         Dissertation
-                         Semester
-                                         (3 CP)          (3 CP)           (3 CP)        (60 CP)
-                         (69 CP)
-                           7th
-                                          FOR             DOC              COG             PGS
-                         Semester
-                                         (3 CP)          (3 CP)           (3 CP)          (6 CP)
-                         (15 CP)
- Ph.D. program
-                           6th
-                                          FOR             DOC              COG             PGS
-                         Semester
-                                         (3 CP)          (3 CP)           (3 CP)          (6 CP)
-                         (15 CP)
-                           5th
-                                          FOR             DOC              COG             PGS
-                         Semester
-                                         (3 CP)          (3 CP)           (3 CP)         (12 CP)
-                         (21 CP)
-                           4th
-                         Semester                        Master’s thesis (30 CP)
-                         (30 CP)
-                            3.
-                                          OM5            OM6                            CM_D3/N3
-                         Semester
-                                         (9 CP)         (15 CP)                           6 CP
-                         (30 CP)
+Contact time
+Courses (type of teaching)
+
+Experimental Psychological Training
+(9 CP)
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+(in
+semester
+hours)
+4
+
+(number, form, scope)
+For admission
+For completing
+to the module
+the module
+exam
+
+Module examination
+(number, form,
+scope)
+Poster presentation (1 hour)
+
+Each year (in the winter semester)
+Decision by the Examining Board regarding admission to studies.
+Psychology (professor of cognitive sciences)
+
+Page 11 of 24
+
+Status:
+
+BM2 Bridge Module: “Applied Mathematics”
+Module type (obligatory or elective):
+
+Number of credit points (CP): 9
+Obligatory module, depending on the decision by
+the Examining Board regarding admission to studies
+(see Article 4 of the subject-specific Admission
+Regulations)
+Objectives: Students will gain broad background
+knowledge in applied mathematics (linear algebra,
+analysis) for an interdisciplinary course of study.
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Contents: A bridge course in Applied / Interdisciplinary Mathematics (analysis and linear algebra).
+Written exam (90 min) or an oral exam (30 min)
+135-160
+Supplementary exam work
+
+Contact time
+Courses (type of teaching)
+
+Video lecture Analysis and Linear
+Algebra (3 CP)
+Mathematics tutorial (6 CP)
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+(in
+semester
+hours)
+
+(number, form, scope)
+For admission
+For completing
+to the module
+the module
+exam
+
+Module examination
+(number, form,
+scope)
+
+0
+2
+Each year (in the winter semester)
+Decision by the Examining Board regarding admission to studies.
+Psychology (Professor of General and Biological
+Psychology)
+
+Page 12 of 24
+
+Status:
+
+BM3 Bridge Module: Laboratory Training
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Number of credit points (CP): 9
+Obligatory module, depending on the decision by
+the Examining Board regarding admission to studies (see Article 4 of the subject-specific Admission
+Regulations)
+Objectives: Students will learn about the process of
+project-oriented research, the coordination of scientific workflows, laboratory organization and documentation, and leadership in scientific teams.
+Contents: Laboratory practice in one of the working groups run by instructors participating in the
+program.
+Work report (2000 words)
+135-160
+Supplementary exam work
+
+Contact time
+Courses (type of teaching)
+
+Laboratory Training (9 CP)
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+(in
+semester
+hours)
+
+(number, form, scope)
+For admission
+For completing
+to the module
+the module
+exam
+
+Module examination
+(number, form,
+scope)
+
+0
+Each year (in the winter semester)
+Decision by the Examining Board regarding admission to studies.
+Psychology (Professor of Cognitive Sciences)
+
+Page 13 of 24
+
+Status:
+
+Number of credit points (CP): 6
+CM_D1: Developmental Science and Embodiment
+Module type (obligatory or elective):
+Elective module
+Objectives: Students will gain enhanced knowledge of current research questions in developmental psychology and
+concept acquisition, including issues from the perspective of
+embodied knowledge. Students will be able to see interrelations between relevant theories and to critically examine
+Content and objective of module:
+them. They will be able to identify and solve practiceoriented problems.
+Contents: Seminars on developmental psychology and
+knowledge acquisition and related topics, as well as the role
+of the body and activity planning in cognition across the
+lifespan.
+Presentation (60 min) with written elaboration (20 pages) or
+Module exam (number, form, scope):
+oral examination (30 min)
+Independent study time (in hours):
+135
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
+Seminar (6 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+
+Each year (in the winter semester)
+None
+Psychology (Professor of Developmental Psychology)
+
+Page 14 of 24
+
+Status:
+
+CM_D2: Language and Development
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Number of credit points (CP): 6
+Elective module
+Objectives: Students will gain enhanced knowledge of
+current research questions in language acquisition, including the role of sensory and motor processes in the
+acquisition of knowledge. Students will be able to see
+interrelations between relevant theories and to critically
+examine them. They will be able to identify and solve
+practice-oriented problems.
+Contents: Seminars on language acquisition and related
+topics in knowledge acquisition, including sensomotoric
+aspects.
+Presentation (60 min) with written elaboration (20 pages) or oral examination (30 min)
+135
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
+Seminar (6 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+
+Each year (in the summer semester)
+None
+Linguistics (Professor of Psycholinguistics with a
+focus on language acquisition)
+
+Page 15 of 24
+
+Status:
+
+CM_D3: Cognitive and Sensorimotor Development
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
+Seminar (6 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Number of credit points (CP): 6
+Elective module
+Objectives: Students will gain enhanced knowledge
+of current research questions in developmental
+psychology and language acquisition. Students will
+be able to see interrelations between relevant theories and to critically examine them. They will be
+able to identify and solve practice-oriented problems.
+Contents: Seminars on developmental psychology,
+language acquisition, and related topics in cognitive development, including sensomotoric components.
+Presentation (60 min) with written elaboration (20
+pages) or oral examination (30 min)
+135
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+
+Every two years in the winter semester; offered as
+an exception in the summer semester if demand
+warrants it
+None
+Psychology (Professor of Developmental Psychology, 50%) and linguistics (Professor of Psycholinguistics with a focus on language acquisition, 50%)
+
+Page 16 of 24
+
+Status:
+
+CM_N1: Neurolinguistic Perspectives
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
+Seminar (6 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Number of credit points (CP): 6
+Elective module
+Objectives: Students will gain profound knowledge
+of current research questions in the neurosciences,
+neuropsychology, and neurolinguistics. They will
+be able to compare relevant theories and critically
+analyze them. Students will be able to apply, adapt,
+or develop new neuroscientific methods or models
+for a specific problem in current research. They
+will recognize the symptoms of brain function
+disorders and their treatment.
+Contents: Seminars on neurolinguistics and linguistic-psychological aspects of the cognitive neurosciences and related topics
+Presentation (60 min) with written elaboration (20
+pages) or oral examination (30 min)
+135
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+
+Every winter semester
+None
+Linguistics (Professor of Patholinguistics)
+
+Page 17 of 24
+
+Status:
+
+Number of credit points (CP): 6
+CM_N2: Philosophy of Neuroscience and Embodied Cognition
+Module type (obligatory or elective):
+Elective module
+Objectives: Students will gain profound knowledge
+of neurophilosophical theories of human
+knowledge and cognition, as well as current questions in relevant subfields of philosophy. They will
+be able to compare relevant theories and critically
+Content and objective of module:
+analyze them. Students will be able to adapt or
+develop new paradigms or models for a specific
+problem in current research. Examples of content:
+Epistemology, theories of the representation of
+knowledge and their relations to sensory and motor
+activity; agency and free will.
+Presentation (60 min) with written elaboration (20
+Module examination (number, form, scope):
+pages) or oral examination (30 min)
+Independent study time (in hours):
+135
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
+Seminar (6 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+
+Every summer semester
+None
+Philosophy (Professor of Theoretical Philosophy)
+
+Page 18 of 24
+
+Status:
+
+Number of credit points (CP): 6
+CM_N3: Cognitive Neuroscience, Neuropsychology and the Body
+Module type (obligatory or elective):
+Elective module
+Objectives: Students will gain advanced knowledge
+of theories of neuropsychology, functional perspectives in neuropsychology, and the rehabilitation of
+human cognition. They will be able to compare
+relevant theories and methods and critically analyze them. Students will be able to apply, adapt, or
+develop new therapeutic methods to a specific
+Content and objective of module:
+problem in current neuropsychological research.
+They will recognize the symptoms of physical and
+mental disorders and their treatment.
+Contents: Neuroplasticity, visual deficits, righthemisphere syndromes, emotional disorders, and
+their treatment; memory disorders, test procedures,
+and rehabilitation approaches.
+Presentation (60 min) with written elaboration (20
+Module examination (number, form, scope):
+pages) or oral examination (30 min)
+Independent study time (in hours):
+135
+
+Courses (type of teaching)
+
+Contact time
+(in
+semester
+hours)
+
+Seminar (6 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For admission
+(number, form,
+For completing
+to the module
+scope)
+the module
+exam
+
+Every semester
+None
+Rehabilitation Sciences (Foundation Professor for
+Rehabilitation Sciences)
+
+Page 19 of 24
+
+Status:
+
+Appendix 2: Module Catalog for the Ph.D. Program
+FOR “Progress Reports”
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Contact time
+(in semester hours)
+
+Number of credits (CP): 12
+Mandatory
+Objectives: Students will be able to provide regular progress reports on the status of a complex research project.
+Contents: Students will prepare a report on the progress of
+their dissertation project each semester. The scope and delivery deadline are agreed upon with the supervisors.
+Submission of 4 progress reports in one document
+
+Supplementary exam work
+(number, form, scope)
+For completing the module
+
+Module examinaFor admis- tion
+sion to the (number, form,
+scope)
+module
+exam
+
+None
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Every semester
+None
+All teaching units involved in the Ph.D program
+
+Page 20 of 24
+
+Status:
+
+DOC “Colloquium for Doctoral Candidates”
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Seminar (12 CP)
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Contact time
+(in semester hours)
+2
+
+Number of credits (CP): 12
+Mandatory
+Objectives: Students will be able to clearly and concisely
+present the partial results and research question of their
+dissertation project, or problems related in terms of content
+or method; they will also be able to stimulate construction
+scientific discussion of these topics.
+Contents:Students will hold a presentation each semester
+and actively participate in discussions in the doctoral colloquium.
+Course-related module examination(s); see below
+
+Supplementary exam work
+(number, form, scope)
+For completing the module
+
+Module examinaFor admis- tion
+sion to the (number, form,
+scope)
+module
+exam
+Presentation (at
+least 30 min)
+
+Every semester
+None
+Psychology (Interdisciplinary Professor of Cognitive Sciences, 50%; Professor of General and Biological Psychology, 50%).
+
+Page 21 of 24
+
+Status:
+
+COG “Cognitive Science Colloquium”
+Module type (obligatory or elective):
+
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Contact time
+(in semester hours)
+
+Seminar (12 CP)
+
+2
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Number of credits (CP): 12
+Mandatory
+Objectives: Students will be able to critically evaluate current research in the field of the cognitive sciences, recognize
+connections between sub-fields, and organize these connections into interdisciplinary contexts.
+Contents:Active participation in the colloquium in terms of
+preparation and, for example, organization of colloquiums,
+of discussion panels with guests, and laboratory tours.
+Report (approx. 5000 words) on the seminar
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For completing For admission to the (number, form,
+scope)
+the module
+module exam
+
+Every semester
+None
+Psychology (Interdisciplinary Professor of Cognitive Sciences, 50%; Professor of General and Biological Psychology, 50%).
+
+Page 22 of 24
+
+Status:
+
+Number of credits (CP): 24
+PGS “Courses offered by the Potsdam Graduate School”
+Module type (obligatory or elective):
+Mandatory
+Objectives: Students will enhance their capability for scientific work by actively participating in English-language
+courses offered by the Potsdam Graduate School.
+Content and objective of module:
+
+Module examination (number, form, scope):
+Independent study time (in hours):
+
+Courses (type of teaching)
+
+Contact time
+(in semester hours)
+
+4 seminars or block courses (6 CP
+each)
+
+2 semester
+hours
+
+Offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+Contents:Students will complete a total of at least 4 PoGS
+courses, of which at least two are interdisciplinary courses
+(for example, “Scientific Writing” or “Career Development”) and one course that is close to their subject (for
+example, specific statistical methods). Each course earns 6
+CP.
+PoGS certificate attesting to successful participation
+
+Supplementary exam work
+Module examina(number, form, scope)
+tion
+For
+completing For admission to (number, form,
+scope)
+the module
+the module exam
+
+Every semester
+None
+Potsdam Graduate School (PoGS)
+- Interdisciplinary courses: Offered by PoGS
+- Subject-relevant courses: Staff from all participating
+teaching units under PoGS
+
+Page 23 of 24
+
+Status:
+
+Appendix 3: Degree progress plan
+
+Ph.D. program
+
 Master’s program
-                            2.
-                                          OM2             OM3              OM4          CM_D2/N2
-                         Semester
-                                         (9 CP)          (9 CP)           (6 CP)         (6 CP)
-                         (30 CP)
-                           1st
-                                         OM1                               BM           CM_D1/N1
-                         Semester
-                                        (15 CP)                           (9 CP)         (6 CP)
-                         (30 CP)
 
- Master’s Modules
- OM: Obligatory Module
- BM: Bridge Module
- CM_X: Choice Module / Elective
+8th
+Semester
+(69 CP)
+7th
+Semester
+(15 CP)
+6th
+Semester
+(15 CP)
+5th
+Semester
+(21 CP)
+4th
+Semester
+(30 CP)
+3.
+Semester
+(30 CP)
+2.
+Semester
+(30 CP)
+1st
+Semester
+(30 CP)
 
- Ph.D. Modules
- FOR: Progress Reports
- DOC: Colloquium for Doctoral Candidates
- COG: Cognitive Science Colloquium
- PGS: Courses offered by the Potsdam Graduate School (PoGS)
+FOR
+(3 CP)
 
+DOC
+(3 CP)
 
+COG
+(3 CP)
 
+Dissertation
+(60 CP)
 
-                                                                                   Page 24 of 24
+FOR
+(3 CP)
+
+DOC
+(3 CP)
+
+COG
+(3 CP)
+
+PGS
+(6 CP)
+
+FOR
+(3 CP)
+
+DOC
+(3 CP)
+
+COG
+(3 CP)
+
+PGS
+(6 CP)
+
+FOR
+(3 CP)
+
+DOC
+(3 CP)
+
+COG
+(3 CP)
+
+PGS
+(12 CP)
+
+Master’s thesis (30 CP)
+OM5
+(9 CP)
+
+OM6
+(15 CP)
+
+OM2
+(9 CP)
+
+OM3
+(9 CP)
+
+OM1
+(15 CP)
+
+CM_D3/N3
+6 CP
+OM4
+(6 CP)
+
+CM_D2/N2
+(6 CP)
+
+BM
+(9 CP)
+
+CM_D1/N1
+(6 CP)
+
+Master’s Modules
+OM: Obligatory Module
+BM: Bridge Module
+CM_X: Choice Module / Elective
+Ph.D. Modules
+FOR: Progress Reports
+DOC: Colloquium for Doctoral Candidates
+COG: Cognitive Science Colloquium
+PGS: Courses offered by the Potsdam Graduate School (PoGS)
+
+Page 24 of 24
+
 
