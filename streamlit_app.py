@@ -18,7 +18,7 @@ import requests
 import streamlit as st
 
 MISTRAL_URL = "https://api.mistral.ai/v1/chat/completions"
-TOP_K = 10  # number of text chunks sent per question
+TOP_K = 12  # number of text chunks sent per question
 DOCS_DIR = Path(__file__).parent / "docs" / "text"
 AVATAR = str(Path(__file__).parent / "assets" / "cogsi.png")
 
@@ -157,7 +157,8 @@ Rules:
 - If the excerpts do not contain the answer, say clearly that you don't know and suggest contacting the study advisor or the office named in the documents.
 - Do NOT mention or cite the documents, excerpts, sections or paragraphs in your answer (no "according to the FAQ", no "§ 5"). Just give the answer directly, as a knowledgeable study advisor would.
 - If the program-specific regulations and the general regulations (BAMA-O) differ, the program-specific regulations take precedence.
-- Answer in the language of the question (German or English). Be concise and precise.
+- Answer in the language of the question (German or English).
+- Give complete, detailed answers: include all relevant conditions, numbers, deadlines, exceptions and practical next steps (e.g. whom to contact, what to submit). Use short paragraphs or bullet points for readability. If several rules apply, explain each.
 - You give information, not legally binding decisions. For binding decisions, refer to the examination board or the responsible office."""
 
 
