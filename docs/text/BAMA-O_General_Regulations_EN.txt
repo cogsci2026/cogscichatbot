@@ -1,0 +1,1647 @@
+    This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                           German and English versions of these regulations, the German-language version shall prevail.
+
+
+                                                                              §7       Examination Authority
+ Revised Version of the General Study                                         § 7a      Right to Examination, Examination Dead-
+                                                                                       line, Agreement Regarding the Course of
+and Examination Regulations for Bache-                                                 Studies, De-Registration, Preliminary En-
+  lor’s and Master’s Degree Programs                                                   rollment in Master’s Studies
+(Non-Teaching-Oriented) at the Univer-                                        §8       Performance Evaluation – Objective and
+       sity of Potsdam (BAMA-O)                                                        Definitions
+                                                                              § 8a     Performance Evaluation and Digital Infor-
+                                                                                       mation and Communication Technologies
+               Dated January 30, 2013                                         §9       Participation in Performance Evaluation
+                                                                              § 9a     Limitations for Participation in Courses and
+     as amended by the fifth amendment of                                              Examinations
+       the Revised Version of the General                                     § 9b     Selection Procedure in Case of Limitations
+    Study and Examination Regulations for                                              for Participation
+                                                                              § 10     Dates and Deadlines for Examinations
+      Bachelor’s and Master’s Degree Pro-                                     § 11     Grading and Evaluation
+    grams (Non-Teaching-Oriented) at the                                      § 12     Passing the Module Examination and the
+       University of Potsdam (BAMA-O)                                                  Examination for the Entire Degree Program
+                                                                              § 13     Retaking Examinations, Non-Binding Ex-
+      - non-official consolidated version -                                            aminations, and Grade Improvements
+                                                                              § 14     Defaults; Exclusion from the Performance
+                                                                                       Evaluation Process in the Event of Viola-
+             Dated December 16, 2020 1                                                 tions of Domiciliary Rights
+                                                                              § 15     Compensation for Disadvantage
+The Senate of the University of Potsdam has ap-                               § 16     Recognition and Crediting of Achievements
+proved on January 30, 2013, the following regula-                             § 17     Statement of Originality; Deception, Aca-
+tions on the basis of Section 18 subsections 1 and 2,                                  demic Misconduct
+Section 21 subsections 2 and 5 sentence 2, and                                § 18     Overall Grade Scale
+Section 62 subsection 2 no. 2 of the Brandenburg                              § 19     Certificates, Diplomas, Written Confirma-
+Higher Education Act (BbgHG) in the version dat-                                       tions
+ed December 18, 2008 (Law and Ordinance Gazette                               § 20     Retention and Viewing of Examination
+[GVBl.] I/08 p. 318), last amended by Article 1 of                                     Files
+the Act of October 26, 2010 (GVBl. I/10 no. 35), in                           § 21     Invalidity of Graduation
+conjunction with Section 3 subsection 2 of the Or-
+dinance on the Design of Examination Regulations                              II. Special Provisions for Bachelor’s Degree
+to Guarantee the Equivalency of Studies, Examina-                             Programs
+tions, and Degrees of June 7, 2007 (GVBl. II/07 p.                            § 21a Access and Admission to Bachelor’s De-
+134), last amended by the ordinance of June 15,                                     gree Programs
+2010 (GVBl. II/10 no. 33), and with Article 14,                               § 22 Duration and Organization of Bachelor’s
+subsection 1 no. 2 of the Basic Constitution of the                                 Degree Programs
+University of Potsdam (GrundO) of December 17,                                § 23 Key Competences
+2009 (Bulletin UP no. 4/2010 p. 60): 2                                        § 24 Objectives of the Key Competences
+                                                                              § 25 Studiumplus Curriculum Committee
+Table of Contents                                                             § 26 Bachelor’s Thesis
+I. General Section                                                            § 27 Subject-Specific and Overall Grade for
+§1    Applicability                                                                 Bachelor’s Degrees
+§2    Examining Boards and Module Commis-
+      sioners                                                                 III. Special Provisions for Master’s Degree Pro-
+§3    Degrees for Bachelor’s and Master’s Pro-                                grams
+      grams                                                                   § 27a Admission and Access to Master’s Degree
+§4    Definition of the Objectives of Study, Suita-                                  Programs
+      bility for Part-Time Study, Part-Time De-                               § 28 Types of Master’s Degree Programs
+      gree Program                                                            § 29 Duration and Organization of Master’s De-
+§5    Modules and Course of Studies                                                  gree Programs
+§ 5a Attendance                                                               § 30 Master’s Thesis
+§6    Credit Points                                                           § 31 Overall Grade for the Master’s Degree
+
+1
+                                                                              IV. Cooperative Degree Programs
+      Approved by the President of the University of Potsdam on
+      December 21, 2020.                                                      § 31a Cooperative Degree Programs
+2
+      Approved by the President of the University of Potsdam on
+      February 1, 2013.
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+V. Final Provisions                                                        among the university professors who are members
+§ 32 Entry-into-Force, Expiration, and Transi-                             of the Examining Board.
+      tional Provisions
+                                                                           (2) The term of office on the Examining Board is
+Appendix 1:          (to Section 5 Subsection 2): Tem-                     two years; the term of office for the student member
+                     plates for Module Descriptions                        is one year. Re-election is possible. The members
+Appendix 2:          (to Section 5 Subsection 5): Rec-                     shall continue to serve on the Examining Board
+                     ommended Distribution of Credit                       after the expiration of their term of office until their
+                     Points (CPs) for Dual-Subject                         successor has assumed their position. With the
+                     Bachelor’s Degree Programs                            majority of its members, the Faculty Council can
+                     (Full-Time Study)                                     appoint a new Examining Board before the expira-
+Appendix 3:          (to Section 23 Subsection 3):                         tion of the term of office.
+                     Basic Academic Competences
+                                                                           (3) Decisions are taken by a simple majority. In the
+                                                                           event of a tie, the chairperson casts the deciding
+I. General Section                                                         vote. The Board has a quorum if more than half of
+                                                                           its members, including the chairperson or deputy
+§1        Applicability                                                    chairperson, are present. Meeting minutes must be
+                                                                           kept for meetings of the Examining Board. The
+(1) These regulations apply to university studies                          Examining Board can adopt its own rules of proce-
+and examinations for non-teaching-oriented bache-                          dure.
+lor’s and master’s degrees at the University of
+Potsdam.                                                                   (4) The Examining Board ensures that the provi-
+                                                                           sions of these regulations and those of the respec-
+(2) The respective subject- or degree-specific regu-                       tive subject- or degree-specific regulations are met,
+lations also apply, which are approved in accord-                          and also makes proposals for amendments to these
+ance with these regulations and the current version                        regulations if necessary. The Examining Board is in
+of the University Examination Ordinance (HSPV).                            particular responsible for:
+                                                                           1.    decisions on proposals by students or instruc-
+(3) In the event that these regulations contradict the                           tors regarding the application of these regula-
+respective subject- or degree-specific regulations,                              tions and of the subject- or degree-specific
+then the provisions of these regulations supersede                               regulations,
+those of the respective subject- or degree-specific                        2.    the allocation of courses to a module, and the
+regulations.                                                                     distribution of credit points assigned to the
+                                                                                 module (the basis of evaluation here is the
+(4) References made in these regulations and in the                              proposal of the respective instructor),
+subject- or degree-specific regulations to the Bran-                       3.    the appointment of Module Commissioners,
+denburg Higher Education Act (“Brandenburgisch-                            4.    regular reporting to the Faculty, especially to
+es Hochschulgesetz”, BbgHG) or the Brandenburg                                   the Study Commission responsible for the de-
+Ordinance on the Design of Examination Regula-                                   gree program or subject, about its experience
+tions to Guarantee the Equivalency of Studies,                                   with the application of regulations,
+Examinations,      and    Degrees      (“Hochschul-                        5.    the recognition and crediting of study, exami-
+prüfungsverordnung”, HSPV)) are referring to the                                 nation, and graduation achievements,
+valid version of the BbgHG or HSPV as amended                              6.    decisions about the suitability of a vocational
+from time to time. Insofar as a need for amend-                                  education and work experience as an admis-
+ments arises from the current version of the BbgHG                               sion requirement for bachelor’s programs un-
+or HSPV, these must be implemented accordingly.                                  der Section 9 subsection 2 sentence 1 no. 11
+                                                                                 of the BbgHG,
+                                                                           7.    decisions on compensation for disadvantage
+§2        Examining Boards and Module Com-                                       in accordance with Section 15.
+          missioners                                                       Responsibilities with regard to admission and en-
+                                                                           rollment procedures are governed by the regulations
+(1) For each degree program or subject, the relevant                       issued for these purposes.
+Faculty Council shall establish an Examining Board
+comprised of representatives from the group of                             (5) The Examining Board can assign responsibili-
+university professors for the subject, a member of                         ties to the chairperson or the deputy chairperson by
+academic staff, and one student. The group of uni-                         means of resolutions. In such cases, the chairperson
+versity professors must hold the majority of the                           or deputy chairperson shall inform the Examining
+seats. In objectively substantiated cases, an inter-                       Board immediately of his or her decision or other
+disciplinary Examining Board can be appointed                              measures. Upon application from an affected per-
+within a Faculty. The responsible Faculty Council                          son, the Examining Board shall decide as a collegi-
+elects a chairperson and a deputy chairperson from                         al body on matters assigned in accordance with
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+sentence 1. The application must be submitted                              (2) The objectives of university study and the pro-
+without undue delay upon announcement by the                               fessional fields in which these qualifications can be
+chairperson or deputy chairperson of the decision or                       utilized after completion of studies must be de-
+other measure. The right of appeal under subsection                        scribed in the respective subject- or degree-specific
+6 remains unaffected.                                                      regulations. The objectives must correspond to the
+                                                                           scholarly or artistic educational goal and degree
+(6) The Examining Board makes decisions regard-                            level pursued, and relate primarily to the fields of
+ing appeals against decisions made by the Examin-                          -      scholarly or artistic competence,
+ing Board. This decision-making authority cannot                           -      professional competence,
+be delegated under subsection 5 to the chairperson                         -      competence for participation in civil society,
+or deputy chairperson.                                                            and
+                                                                           -      personal development.
+(7) Members of the Examining Board and their                               The subject-related, interdisciplinary, methodologi-
+deputies are sworn to official secrecy. Insofar as                         cal, social, and personal competences required to
+they do not work in public service, they must be                           attain these objectives are acquired during the
+bound to confidentiality by the chairperson.                               course of studies in modules designed for this pur-
+                                                                           pose.
+(8) The Examining Board shall appoint a Module
+Commissioner for each module. The Module                                   (3) The respective subject- or degree-specific study
+Commissioners are responsible in particular for:                           and examination regulations govern whether the
+a) the development of the module in collabora-                             degree program can also be completed on a part-
+      tion with other instructors,                                         time basis (suitability for part-time studies). In case
+b) coordination of the range of courses offered,                           of suitability for part-time studies, the provisions of
+c) coordination of examinations accompanying                               the Regulations for Part-Time Studies at the Uni-
+      university studies if several instructors are in-                    versity of Potsdam (“Ordnung zur Regelung des
+      volved, and                                                          Teilzeitstudiums”), as amended from time to time,
+d) the supervision and advising of instructors                             shall apply.
+      during ongoing teaching operations.
+The subject- or degree-specific regulations can                            (4) The respective subject- or degree-specific study
+assign additional duties to the Module Commis-                             and examination regulations govern whether or not
+sioners.                                                                   the degree program can be organized and offered in
+                                                                           a part-time format (part-time degree program). The
+                                                                           part-time format is recommended for degree pro-
+§3        Degrees for Bachelor's and Master’s                              grams that are organized as extra-occupational
+          Programs                                                         continuing education. In such cases, the provisions
+                                                                           of the Regulations for Part-Time Studies at the
+The bachelor’s or master’s degree to be awarded in                         University of Potsdam do not apply.
+respective degree programs is determined on the
+basis of the subject- or degree-specific regulations,
+which are based on the University Examination                              §5         Modules and Course of Studies
+Ordinance of the state of Brandenburg (HSPV). The
+degree is awarded by the respective Faculty at the                         (1) Modules are self-contained examinable units
+University of Potsdam. In dual-subject degree pro-                         that group subject areas in terms of content and
+grams, the academic degree is determined by the                            time in a well-rounded manner. One module typi-
+first subject (“Erstfach”). A degree is only awarded                       cally includes the content for a single semester or
+if the student was enrolled in the relevant degree                         year of study. In particularly justified cases, a mod-
+program at the University of Potsdam for the last                          ule can also stretch over several semesters. A mod-
+two semesters before the last scheduled examina-                           ule is typically comprised of between 6 and 18
+tion.                                                                      credit points. Dual-subject bachelor’s degree pro-
+                                                                           grams typically include modules of 6, 9, 12, 15, or
+                                                                           18 credit points.
+§4        Definition of the Objectives of Study,
+          Suitability for Part-Time Study, Part-                           (2) The achievements required for a module must
+          Time Degree Program                                              be completed alongside university studies. Each
+                                                                           module – insofar as it is not exclusively or predom-
+(1) The objective of university studies is to acquire                      inantly comprised of practical units – must be com-
+a bachelor’s or master’s degree. The bachelor’s                            pleted with a grade. The modules must be described
+degree represents the first university degree and has                      in the subject- or degree-specific regulations, in-
+its own profile which qualifies holders to practice a                      cluding the work required and the credit points to
+profession. Master’s studies lead to an additional                         be awarded. To create more transparency with re-
+degree that qualifies holders to practice a profes-                        gard to the course of studies, the modules are sum-
+sion.                                                                      marized in the subject- or degree-specific regula-
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+tions in a module catalog. The description of a                                   Tutorials are accompanying courses that,
+module in the module catalog must contain at least:                               above all, further develop the students’ abili-
+-     content and objectives of the module,                                       ties and skills.
+-     module type (mandatory or elective module),                          d)     Internships
+-     teaching formats (including contact time in                                 Internships serve to deepen subject knowledge
+      hours per week per semester)                                                by acquiring and applying subject-specific
+-     prerequisites for taking the module,                                        working methods. They are to be completed
+-     prerequisites for awarding credit points (sec-                              outside of the University and will introduce
+      ondary examinations, form of the module ex-                                 students to the problems and responsibilities
+      amination, and the number and form(s) of                                    of their future professional careers.
+      module sub-examinations, if applicable),                             e)     Colloquia (K)
+-     work required for the module (measured in                                   Colloquia facilitate the presentation of stu-
+      credit points and/or independent study time                                 dents’ own research achievements and hone
+      (in hours),                                                                 their ability to participate in discussions. A
+-     frequency at which the module is offered,                                   colloquium offers the opportunity to present
+-     teaching unit(s) offering the module.                                       work-in-progress for discussion, and/or to
+The module descriptions should contain infor-                                     gain familiarity and experience with current
+mation about the language of instruction if courses                               research approaches.
+will be held in a language other than German. One
+of the templates from Appendix 1 must be used for                          (5) For full-time studies, the contents of a degree
+the module descriptions. The template in Appen-                            program must be selected and limited in such a way
+dix 1 is merely a recommendation if degree pro-                            that a bachelor’s or master’s degree can be com-
+grams are held jointly with another institution of                         pleted within the standard period of study (“Re-
+higher education (collaborative degree program).                           gelstudienzeit”). To document the feasibility of
+                                                                           studies, subject- or degree-specific regulations must
+(2a) The responsible Faculty can assemble module                           contain a sample degree progress plan for each
+descriptions in a Faculty-wide module catalog for                          degree type that shows a possible and feasible se-
+all subjects; the module catalog must be approved                          quence of all modules, as well as the preparation of
+as a statute. The module descriptions in a Faculty-                        a final thesis, within the standard period of study. If
+wide module catalog must meet the requirements of                          a degree program can begin in either the summer or
+these regulations. Insofar and to the extent to which                      winter semester, then the subject- or degree-specific
+module descriptions are contained in a Faculty-                            regulations must show the feasibility of studies
+wide, comprehensive module catalog, the subject-                           when starting in the summer and winter semester,
+or degree-specific regulations can refer to these                          in the form of degree progress plans. The documen-
+modules.                                                                   tation of feasibility in degree progress plans for
+                                                                           bachelor’s degree programs must include modules
+(3) If one and the same module is a component of                           for the acquisition of key competences, and, for
+the curriculum for different subjects, then, in the                        dual-subject bachelor’s programs, these must also
+event of a combination of these two subjects, this                         include the work required for the second subject.
+module must be replaced by another module in one                           For dual-subject bachelor’s degree programs, a
+of the subjects. The subject- or degree-specific                           distribution of credit points in accordance with
+regulations for the affected subjects govern the                           Appendix 2 is recommended to ensure the feasibil-
+details.                                                                   ity of studies and of the combination of the two
+                                                                           subjects.
+(4) Possible teaching formats include in particular:
+a) Lectures
+      Lectures serve to present larger contexts and                        § 5a       Attendance
+      to systematize theoretical knowledge. Lec-
+      tures present defined fields of knowledge and                        (1) Study and examination regulations are generally
+      draw on new research results in a clear man-                         not allowed to stipulate regular participation or
+      ner.                                                                 attendance requirements in courses (mandatory
+b) Seminars (S)                                                            attendance) for the completion of a module or for
+      Seminars are courses with an advanced char-                          admission to a module (sub-)examination.
+      acter. Students are to be enabled to work in-
+      dependently and actively under guidance to                           (2) In cases of justifiable exceptions, however,
+      specify, systematically develop, and methodi-                        mandatory attendance can be stipulated as a prereq-
+      cally handle the problems characteristic of the                      uisite for completing a module or for being admit-
+      field, in the context of a critical analysis of                      ted to a module (sub-)examination. These excep-
+      relevant research according to scholarly crite-                      tions must be limited to the following teaching and
+      ria.                                                                 learning formats:
+c) Tutorials (Ü)                                                           -     language courses,
+                                                                           -     internships,
+    This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                           German and English versions of these regulations, the German-language version shall prevail.
+
+
+-        practical tutorials (e.g., laboratory courses,                       practical phases is determined by the university, if
+         computer tutorials, sport exercises, practical                       the practical phases are typically accompanied by
+         music courses, blackboard tutorials),                                courses, and if a certificate of completion is issued.
+-        excursions,
+-        teaching research projects or research-
+         oriented seminars (seminars should generally                         §7         Examination Authority
+         have no more than 25 students; active partici-
+         pation by students and practice with scientific                      (1) Academic and artistic staff members who are
+         methods),                                                            primarily employed at an institution of higher edu-
+-        courses that involve third parties (e.g. school                      cation, adjunct instructors, and people with experi-
+         students or other third parties).                                    ence in professional practice and education are
+                                                                              authorized to hold examinations. Examinations
+(3) These exceptions must be regulated in the re-                             should only be held by persons who fulfill teaching
+spective subject- or degree-specific study and ex-                            duties. Examinations can only be evaluated by
+amination regulations as secondary examinations                               persons who themselves possess at least the same
+(“Prüfungsnebenleistungen”). An attendance re-                                qualification as that awarded by the examination, or
+quirement cannot be implemented without such a                                an equivalent qualification.
+provision. To the extent that regular participation is
+required, the requirement must be defined in the                              (2) The authorization to hold examinations applies
+study and examination regulations. To the extent                              to the subject for which the respective instructor at
+that mandatory attendance is required, the propor-                            the University of Potsdam regularly holds a course
+tion of mandatory attendance must be at least 70%,                            preparing students for the respective examination,
+insofar as the subject- or degree-specific study and                          or held a course at most four semesters before the
+examination regulations do not specify a higher                               examination. The Examining Board makes deci-
+proportion.                                                                   sions regarding exceptions pertaining to the re-
+                                                                              quirement of subject affiliation and the cutoff peri-
+(4) Subsections 1-3 shall not apply to master’s                               od.
+degree programs for continuing education.
+                                                                              (3) Sections 26 and 30 govern the full particulars of
+                                                                              the authorization to hold examinations for thesis
+§6           Credit Points                                                    projects.
+
+(1) The credit point system is a formal mechanism
+for the organization, calculation, and certification of                       § 7a       Right to Examination, Examination
+study-related efforts.                                                                   Deadline, Agreement Regarding the
+                                                                                         Course of Studies, De-Registration, Pre-
+(2) Credit points are a quantitative measurement of                                      liminary Enrollment in Master’s Studies
+the effort made by students. They include both
+contact time as well as the time for preparation and                          (1) A stduent’s right to examination only exists for
+follow-up work related to course contents (for in-                            the degree program in which the student is enrolled.
+class and independent study time), examination
+effort and time spent preparing for examinations, as                          (2) Students must complete their bachelor’s or
+well as internships, if applicable.                                           master’s degree program before the expiration of
+                                                                              double the standard period of study (examination
+(3) One credit point corresponds to an average                                deadline or “Prüfungsfrist”). For dual-subject bach-
+student effort of 30 hours. In accordance with the                            elor’s degree programs, students must document, by
+European Credit Transfer System (ECTS), 30 credit                             the end of the twelfth semester of study (“Fach-
+points are the norm for one semester. For a part-                             semester”) for each subject (examination deadline),
+time degree program, 15 credit points are the norm                            the credit points required to complete their subject-
+for one semester.                                                             specific studies in accordance with Section 22 sub-
+                                                                              section 5 (including a bachelor’s thesis in their first
+(4) A certain amount of credit points can be allocat-                         subject and including key competences). The expi-
+ed to individual academic performance require-                                ration of the examination deadline is suspended
+ments that are part of modules; in this case, howev-                          while the last requirement for the degree is evaluat-
+er, the credit points are only awarded once the                               ed. If the last requirement is the bachelor’s or mas-
+module is completed successfully.                                             ter’s thesis, the suspension also extends to an oral
+                                                                              defense, if applicable, under Section 30 subsection
+(5) Credit points for a module are only awarded                               11.
+once.
+                                                                              (3) For part-time degree programs or degree pro-
+(6) The awarding of credit points for practical peri-                         grams that are run jointly with another institution of
+ods of study is only possible if the content of the                           higher education (collaborative degree program),
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+the subject- or degree-specific study and examina-                         b)    periods of maternity leave,
+tion regulations can set an alternative examination                        c)    parental leave,
+deadline.                                                                  d)    time spent caring for relatives, spouses, or life
+                                                                                 partners or
+(4) Students who do not complete the requirements                          e) holding an office in academic self-
+for the degree program or subject before the end of                              administration in accordance with Article 3
+the examination deadline defined in subsection 2                                 subsection 4 of the Basic Constitution (Grun-
+or 3 must participate in departmental advising.                                  dO).
+Departmental advising is carried out by the chair-                         In these cases, the Examining Board shall extend
+person or deputy chairperson of the Examining                              the examination deadline as per subsection 2 or 3
+Board. The Examining Board can task university                             appropriately depending on the respective case of
+professors in its remit under Section 2 subsection 1,                      hardship without concluding an agreement on the
+who need not be members of the Examining Board,                            course of studies as per subsection 5. In discontin-
+with carrying out these consultation meetings.                             ued degree programs, an extension for reasons of
+Should the student not participate in departmental                         hardship is possible up to the point in time at which
+advising despite the invitation, the right to examina-                     the respective standard period of study of the af-
+tion shall expire once the examination deadline                            fected degree program or subject plus an additional
+passes in accordance with subsection 2 and the                             ten semesters calculated from the time of the dis-
+student will be de-registered pursuant to Section 14                       continuation have passed. An extension of the ex-
+subsection 5 sentence 1 no. 2 of the BbgHG.                                amination deadline and an exemption from depart-
+                                                                           mental advising is not granted if the disadvantage
+(5) Departmental advising in accordance with sub-                          was already compensated in the context of universi-
+section 4 aims to facilitate the conclusion of an                          ty studies. Once the extension of the examination
+agreement regarding the course of studies                                  deadline granted on the basis of a hardship case has
+(“Studienverlaufsvereinbarung”). The agreement                             expired, subsections 4 to 5 shall apply.
+regarding the course of studies must impose an
+obligation on the student to complete the required                         (7) If the student does not meet the requirements
+academic and examination achievements within a                             enumerated in the agreement regarding the course
+period of two semesters. The agreement regarding                           of studies by the appointed deadline, then the right
+the course of studies must be signed by the student                        to examination expires upon the date of expiration
+and the chairperson of the Examining Board, or                             of the examination deadline, resulting in de-
+their deputy, or a university professor assigned by                        registration under Section 14 subsection 5 sen-
+the Examining Board in accordance with subsection                          tence 1 no. 2 of the BbgHG. This does not apply if
+4 sentence 3. The extension of the examination                             the student is not at fault for missing the deadline
+deadline associated with the agreement on the                              and reports this to the chairperson of the Examining
+course of studies can only be granted if it is con-                        Board or his/her deputy at the latest by the begin-
+ceivable that, within these two semesters, the stu-                        ning of the re-registration period before the expiry
+dent can successfully take the examinations re-                            of the extended examination deadline under subsec-
+quired for the completion of the degree program. If                        tion 5. Failure to meet the deadline is considered to
+an extension cannot be granted after reviewing                             not be the student’s fault if, during the extended
+these criteria, the right to examination shall expire                      examination deadline, a hardship occurs for which
+once the examination deadline passes in accordance                         the student does not bear fault and which prevents
+with subsection 2 or 3 and the student shall be de-                        fulfillment of the agreement regarding the course of
+registered pursuant to Section 14 subsection 5 sen-                        studies. A hardship case exists in particular in cases
+tence 1 number 2 of the BbgHG. For discontinued                            of:
+degree programs, an extension or conclusion of an                          a) a long-term, serious illness or disability,
+agreement on the course of studies will only be                                   which must be documented by a physician’s
+possible up to the point in time at which the respec-                             note,
+tive standard period of study of the affected degree                       b) impairments or chronic illnesses, which must
+program or subject plus an additional ten semesters                               be documented by a physician’s note,
+calculated from the time of the discontinuation have                       c) periods of maternity leave,
+passed.                                                                    d) parental leave, or
+                                                                           e) time spent caring for relatives, spouses, or life
+(6) An agreement on the course of studies pursuant                                partners.
+to subsection 5 is not to be concluded if the student                      In these cases, a further adequate extension of the
+claims, at the latest during the meeting for consulta-                     examination deadline under subsections 5 and 2
+tion pursuant to subsection 4, that he or she is not                       or 3 may be granted upon application by the stu-
+responsible for the failure to meet the examination                        dent, depending on the respective case of hardship.
+deadline pursuant to subsection 2 or 3 (hardship                           Without an extension, sentence 1 shall apply.
+case). Such cases are in particular
+a) long-term, chronic illnesses or disabilities that                       (8) In the event of retroactive cancellation of pre-
+      must be documented by a physician’s note,                            liminary enrollment and final rejection of enroll-
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+ment in a master's degree program, work completed                          en”). Insofar as the subject- or degree-specific regu-
+during the preliminary enrollment period in the                            lations do not specify otherwise, secondary exami-
+master's degree program shall be deemed not to                             nations are only a requirement for the completion of
+have been completed.                                                       the module.
+
+                                                                           (5) The Student Administration Center (“Studien-
+§8        Performance Evaluation – Objective                               büro”) in these regulations is the central Student
+          and Definitions                                                  Administration Center at the University of Pots-
+                                                                           dam. For continuing education programs or cooper-
+(1) The performance evaluation process documents                           ative degree programs, the subject- or degree-
+examination achievements and academic perfor-                              specific regulations can name another office to
+mance.                                                                     which the duties of the Student Administration
+                                                                           Center are transferred.
+(2) Primary examinations (“Prüfungsleistungen”)
+are graded performances that count towards the                             (6) Faults or disruptions in the performance evalua-
+overall grade for the degree program. All other                            tion process are to be reprimanded immediately and
+achievements are considered academic performance                           substantiated. Existing faults in the performance
+(“Studienleistungen”).                                                     evaluation process shall be compensated for in a
+                                                                           suitable and appropriate manner.
+(2a) In accordance with these regulations and the
+respective subject-specific regulations, examination
+achievements may take the form of oral examina-                            § 8a       Performance Evaluation and Digital
+tions, written examinations, project papers, written                                  Information and Communication Tech-
+term papers, presentations and tests. Unless the                                      nologies
+subject-specific regulations expressly state other-
+wise, non-oral examinations may also be conduct-                           (1) Until the end of the summer semester 2022,
+ed, recorded, or evaluated using electronic media.                         performance evaluation at the university can take
+This applies in particular to proctored evaluations                        place using digital information and communication
+such as written examinations.                                              technologies without personal presence in an exam-
+                                                                           ination room at the University of Potsdam (online
+(2b) The minimum duration of oral examinations                             performance evaluation) on a trial basis.
+should be no less than 15 minutes per student. The
+duration of written examinations should be no less                         (2) Oral and practical examinations to this effect are
+than 90 minutes. For a module (sub-)examination, a                         carried out as video conferences, and written exam-
+maximum of three different examination formats                             inations as online examinations. For video confer-
+may be specified in the module description in the                          ences, images and sound must be transmitted in-
+module catalog of the subject-specific regulations                         stantaneously via information and communication
+or in the faculty-wide interdisciplinary module                            technology to those locations where the students,
+catalog. Within a single semester, all candidates                          the individuals authorized to hold examinations,
+must take examinations using the same examination                          and, if applicable, the proctors are located. For
+format. The examination format and, if applicable,                         online examinations, all participants must take the
+the use of electronic media according to subsection                        examination at the same time.
+2a sentence 2 must be announced at the latest at the
+beginning of the instructional period.                                     (3) It will be announced in good time whether a
+                                                                           performance evaluation will take place as an online
+(3) Module examinations typically consist of one                           examination. The announcement must also inform
+(single) examination achievement. In this case, the                        the students of the technical requirements necessary
+module examination will cover all qualification                            for participation; it must be possible to test the
+objectives assigned to the respective module. In                           technical requirements in advance. A student must
+justified cases, individual module examinations can                        be allowed, at his/her discretion to participate in an
+consist of several examinations (module sub-                               on-site examination setting without an online exam-
+examinations) as per the subject- or degree-specific                       ination. If conducted on site, the examination
+regulations, especially if this is appropriate given                       should take place at the same time. If this is not
+the extent or content structure of the module.                             possible, another examination date is to be set for
+                                                                           the on-site examination under comparable condi-
+(4) The subject- or degree-specific regulations can                        tions.
+specify individual academic performance achieve-
+ments to be completed as a prerequisite for admis-                         (4) Technical disruptions are considered to be dis-
+sion to or participation in a module examination or                        ruptions of the examination procedure and are to be
+module sub-examination or in another form as a                             compensated for in a suitable and appropriate man-
+requirement for the completion of a module (sec-                           ner, provided that they are obvious or that they are
+ondary examinations or “Prüfungsnebenleistung-
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+reported immediately and substantiated and are not                         the performance evaluation process; however, any
+the student’s fault.                                                       secondary examination achievements already com-
+                                                                           pleted remain valid. The Module Commissioner
+(5) During proctored examinations such as oral or                          determines the registration deadlines for term pa-
+written examinations, students are required to acti-                       pers.
+vate the camera and microphone function of the
+information and communication technologies used                            (5) Registration for course-accompanying perfor-
+for the examination (video proctoring). The room is                        mance evaluation (“lehrveranstaltungsbegleitende
+not monitored in any other way. Moreover, video                            Leistungserfassung”) in accordance with subsection
+proctoring must be set up in such a way that the                           2 is carried out when enrolling in the respective
+right to privacy and confidentiality of the persons                        course. It is not possible to register for a perfor-
+concerned are not restricted any more than is neces-                       mance evaluation outside of the period for course
+sary for the warranted purposes of supervision.                            enrollment and registration (cutoff deadline). Regis-
+Video proctoring is carried out by proctoring staff                        tration can be withdrawn within a deadline period
+from the University of Potsdam. The examination                            (withdrawal deadline). The withdrawal must be
+will not be recorded. The data protection provisions                       carried out in the same form as the registration. The
+remain unaffected by this.                                                 specific date of the examination must be announced
+                                                                           in a suitable form at least one week before the end
+                                                                           of the withdrawal deadline. Withdrawal is no longer
+§9        Participation in Performance Evalua-                             possible once an examination has been taken. After
+          tion                                                             the withdrawal from the registration, a new registra-
+                                                                           tion and admission are required in order to be able
+(1) It is necessary to enroll in courses. Course en-                       to participate in the performance evaluation pro-
+rollment denotes the student’s intent to participate                       cess; however, any secondary examination
+in the course.                                                             achievements already completed remain valid. For
+                                                                           courses taking place in blocks, the instructor can set
+(2) For their completion, primary and secondary                            other deadlines for course enrollment and with-
+examination achievements require proper registra-                          drawal.
+tion by the student in terms of form and punctuality,
+as well as admission by the instructor, in the case of                     (6) The period for timely enrollment and registra-
+subsection 5, or by the Module Commissioner in                             tion (registration and enrollment period) and the
+the case of subsection 4. Students are entitled to                         withdrawal deadline under subsection 5 are set in a
+admission to courses and to examinations if they                           timely manner each semester by the Commission
+meet the admission requirements specified in the                           for Teaching and Studies at the University of Pots-
+module description pursuant to Section 5 and if                            dam (LSK) and published in the Official An-
+they have been selected in case of a limit on the                          nouncements of the University of Potsdam; this
+number of participants. The student must be noti-                          period should also be announced in other appropri-
+fied of any admission decision within one week                             ate ways. The setting of the deadline must include
+after the end of the registration period.                                  reasonable provisions for students who are only
+                                                                           able to enroll at the university following the wait
+(3) Enrollment and registration for courses and                            list procedure or who are only able to enroll at the
+examinations is carried out by means of the campus                         university after the expiration of the general en-
+management system, insofar as this is available for                        rollment deadline due to reasons beyond their con-
+the respective degree program or subject; otherwise,                       trol.
+they must be carried out in writing. When register-
+ing in accordance with subsection 2, the student                           (7) For part-time degree programs, the subject- or
+must be enrolled in the degree program in accord-                          degree-specific regulations can stipulate other
+ance with Section 7a, subsection 1.                                        course enrollment, registration, or withdrawal peri-
+                                                                           ods and forms insofar as there is a specific reason to
+(4) For module examinations that are not directly                          do so.
+assigned to a specific course, the Module Commis-
+sioner sets an examination date at least six weeks                         (8) At the beginning of performance evaluations,
+before the examination is to take place. Registration                      the identity of the student will be verified with a
+under subsection 2 must take place at the latest by                        valid official photo ID. In case of online perfor-
+the eighth calendar day before the examination                             mance evaluation in accordance with Section 8a,
+date. Later registration is not possible (cutoff dead-                     the identity verification shall be carried out via the
+line). A successful registration can be withdrawn up                       video transmission device or in another manner
+to the day of expiration of the deadline under sen-                        suitable for identification. Recording of data col-
+tence 2. The withdrawal must be carried out in the                         lected or processed for this purpose is not permit-
+same form as the registration. After withdrawal                            ted. Multiple identity verifications during the re-
+from the registration, a new registration and admis-                       spective performance evaluation process are per-
+sion are required in order to be able to participate in                    missible.
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+                                                                                  gree progress plan in the study and examina-
+§ 9a       Limitations for Participation in Courses                               tion regulations,
+           and Examinations
+                                                                               b) who have to retake the examination or
+(1) The number of participants in courses and ex-                              course or
+aminations can be limited if this is necessary for                             c) who need the course or examination to
+didactic, spatial, or safety reasons.                                          complete       a     module      they      started,
+                                                                               if there is no alternative to the course. Should
+(2) The relevant instructor/examiner is responsible                            further selection be necessary for this group, the
+for the decision on the specific group size not to be                          decision will be made by drawing lots.
+exceeded for courses and examinations.                                     3. In all other cases, the selection will be made by
+                                                                                drawing lots.
+(3) The group sizes to be specified for courses are                        Cases under nos. 1 and 2 must be demonstrated
+based on the recommendations of the German Rec-                            credibly by the beginning of the registration dead-
+tors’ Conference for ensuring the quality of studies                       lines under Section 9.
+and teaching in bachelor's and master's degree pro-
+grams.                                                                     (3) Should places be available once the procedure
+                                                                           outlined in subsection 2 has been carried out, stu-
+(4) The group size not to be exceeded will be an-                          dents who wish to complete the course or examina-
+nounced in the campus management system, insofar                           tion as part of a compulsory elective course are to
+as this is available for the respective degree pro-                        be selected on a lower priority basis. Should further
+gram or subject, or otherwise in a suitable form                           selection be necessary for this group, the decision
+before the start of the course enrollment and regis-                       will be made by drawing lots. If students can pro-
+tration period.                                                            vide evidence that there is no other elective course
+                                                                           available in the semester in question, they shall be
+(5) If feasible using existing resources, additional                       subject to subsection 2.
+courses should be offered at a later date to reduce
+any delays in the completion of university studies.                        § 10       Dates and Deadlines for Examinations
+
+                                                                           (1) Examinations must be scheduled in such a way
+§ 9b       Selection Procedure in Case of Limita-                          that they can be completed in full within the stand-
+           tions for Participation                                         ard period of study. It should be made possible to
+                                                                           repeat individual examinations within the same
+(1) If the number of students wishing to take part in                      semester. There should be a period of six weeks
+a course or examination exceeds the group size                             separating the first examination date and a possible
+specified in accordance with Section 9a, the rele-                         repeat examination within a semester.
+vant instructor/examiner shall conduct a selection
+procedure among the students.                                              (2) Written primary or secondary examination
+                                                                           achievements should be evaluated within one
+(2) In the selection procedure, preference is first                        month. The evaluation of oral primary or secondary
+given to those students for whom the course or                             examination achievements must be shared with the
+examination is compulsory. If this group alone                             student directly after the examination. The evalua-
+exceeds the specified group size, the selection will                       tion results of the primary or secondary examina-
+be made based on the following order:                                      tion achievement must be entered into the campus
+                                                                           management system in a binding way without un-
+1.     Individuals for whom non-participation would                        due delay after the conclusion of the examination
+       cause exceptional hardship. Exceptional hard-                       procedure, insofar as the system is available for the
+       ship is deemed to exist if special social, health,                  respective degree program or subject. If the campus
+       or family reasons relating to the student’s own                     management system is not available, then the result
+       person make immediate participation in the                          must be communicated without undue delay and in
+       course or examination absolutely necessary.                         writing to the Student Administration Center.
+       This includes, in particular, persons with a dis-
+       ability or chronic illness or persons with a care                   (3) Sections 26 and 30 apply to final theses.
+       or nursing obligation for close relatives. If fur-
+       ther selection is required within this group, it is
+       made according to the degree of hardship.                           § 11       Grading and Evaluation
+2.     Students
+       a) for whom the course or examination in                            (1) Secondary examination achievements are not
+       question was scheduled for the current or an                        graded; they are evaluated as “passed” or “not
+       earlier semester of study according to the de-                      passed.”
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+(2) The following numeric values are permitted as                          second, independent evaluation of the performance.
+grades for primary examination achievements:                               This evaluation must be carried out by a person
+1 = very good (an outstanding achievement)                                 with examiner authorization who is to be named by
+2 = good (an achievement that exceeds average                              the Examining Board. If the rating of “insufficient”
+      requirements considerably)                                           (5.0) is not confirmed by the second examiner,
+3 = satisfactory (an achievement that meets the                            subsection 10 no. 3 shall apply.
+      average requirements)
+4 = sufficient (an achievement that, despite flaws,                        (9) Insofar as these regulations or the subject- or
+      still meets the requirements)                                        degree-specific regulations do not provide for eval-
+5 = insufficient (an achievement that, due to signif-                      uation by at least two persons with examiner au-
+      icant flaws, does not meet the requirements)                         thorization, an oral examination must be evaluated
+                                                                           by an examiner, typically in the presence of an
+(3) In order to facilitate better differentiation, in-                     informed proctor, in accordance with Section 6
+termediate grades can also be used, which results in                       subsection 9 of the HSPV. Minutes must be kept
+the following grade scale:                                                 for oral examinations, which is typically done by
+1.0, 1.3, 1.7, 2.0, 2.3, 2.7, 3.0, 3.3, 3.7, 4.0, 5.0                      the proctor.
+
+(4) A multiple choice examination is considered                            (10) Insofar as these regulations do not contain a
+passed if the candidate attains at least 50% of the                        provision that states otherwise, the grade for an
+total points, or if the attained score is not lower than                   examination assessed by two or more examiners is
+10% below the average examination performance                              calculated in the following way:
+of the candidates taking the examination for the                           1.    The arithmetic average of the individual
+first time. Grades are assigned as follows:                                      grades is truncated at the first decimal place
+       1.0 if at least 90%                                                       after the decimal point, without rounding.
+       1.3 if at least 80%                                                 2.    If the value determined in accordance with
+       1.7 if at least 70%                                                       no. 1 is contained in the grade scale in subsec-
+       2.0 if at least 60%                                                       tion 3, then the grade follows the scale. If the
+       2.3 if at least 50%                                                       value determined in no. 1 is not contained in
+       2.7 if at least 40%                                                       the grade scale in subsection 3, then the per-
+       3.0 if at least 30%                                                       formance is graded with the value on the scale
+       3.3 if at least 20%                                                       that is closest to the calculated value. If the
+       3.7 if at least 10%                                                       value is equally distant from two grades on
+       4.0 if less than 10%                                                      the scale, then the better grade is awarded.
+of the points attainable above the minimum score                           3.    If one of the two grades is worse than “suffi-
+pursuant to sentence 1 have been earned. Sentence                                cient” (4.0), a third examiner will be appoint-
+1 also applies to the passing of secondary examina-                              ed by the Examining Board. If two of the
+tions that are done in the form of a multiple choice                             three examiners then grade the thesis as “in-
+examination.                                                                     sufficient” (5.0), then the final grade for the
+                                                                                 thesis is “insufficient” (5.0). Otherwise, the
+(5) The following letter grades can be used for the                              two better grades shall apply, applying nos. 1
+grades under subsections 3 and 4 as a supplement to                              and 2 accordingly.
+numerical grades, without changing their meaning:
+A; A-; B+; B; B-; C+; C; C-; D+; D; F,
+where “A” is a 1.0, “D” is a 4.0, and “F” is a 5.0.                        § 12       Passing the Module Examination and
+                                                                                      the Examination for the Entire Degree
+(6) A primary examination achievement is consid-                                      Program
+ered passed if a grade of at least “sufficient” (4.0) is
+received.                                                                  (1) A module examination is considered passed if
+                                                                           the module grade is at least “sufficient” (4.0). If an
+(7) A primary examination achievement is consid-                           examination consists of multiple sub-examinations,
+ered irrevocably not passed if the last attempt at a                       then the overall grade results from the arithmetic
+repeat examination (Section 13 subsection 2) results                       average of these sub-examination grades weighted
+in a grade of “insufficient” (5.0). Insofar as the                         by the respective credit points, whereby sub-
+subject- or degree-specific regulations do not pro-                        examinations that were not passed can be compen-
+vide for evaluation by two persons with examiner                           sated for by the individual grades of the other sub-
+authorization, the last attempt to repeat a primary                        examinations for the respective module. If no credit
+examination must always be evaluated by two per-                           points are allocated to the individual sub-
+sons with examiner authorization.                                          examinations or the corresponding courses in the
+                                                                           module description, then the individual sub-
+(8) For a non-oral primary examination that is grad-                       examinations shall be weighted equally. The sub-
+ed as “insufficient” (5.0) and only evaluated by one                       ject- or degree-specific regulations can specify
+examiner, a candidate may request and receive a                            other weighting factors for sub-examination grades.
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+                                                                           a non-binding exam option, expressly stated in
+(2) The examination for the entire degree program                          writing or – insofar as this is possible – via the
+is considered passed if the mandatory and elective                         campus management system, at the latest within 14
+modules specified by the respective subject- or                            calendar days after the announcement of the exami-
+degree-specific regulations for completing the de-                         nation results; this also applies if the examination
+gree program are successfully completed and the                            was passed. Only one non-binding exam can be
+final thesis is given a passing grade. If the student                      claimed per module.
+irrevocably failed to pass a module examination in
+a mandatory module or the final thesis, then the                           (4) Repeating a passed examination is only possible
+examination for the entire degree program is con-                          if the examination was taken in the course of a non-
+sidered irrevocably failed. If the student irrevocably                     binding exam in accordance with subsection 3. In
+failed to pass a module examination in an elective                         this case, the examination can be repeated once.
+module, then another elective module can be cho-                           The better examination result shall count.
+sen within the degree program. If the student irrev-
+ocably failed to pass the module examination in this                       (5) The repetition of a failed examination compo-
+second elective module, then yet another elective                          nent should be done at the latest within the exami-
+module can be chosen within the degree program. If                         nation period of the next semester in which a com-
+the student irrevocably failed to pass the module                          plete repetition of the module is possible. Repeat
+examination in this third elective module, then the                        examinations must be taken according to the regula-
+examination for the entire degree program is con-                          tions under which the first examination was taken.
+sidered irrevocably failed. The examination for the
+entire degree program is also considered irrevoca-                         (6) Participation in repeat examinations requires
+bly failed if, after failing an elective module, there                     registration and admission under Section 9 subsec-
+are no other elective modules to take.                                     tion 2. If the subject- or degree-specific regulations
+                                                                           do not specify otherwise, the repetition of examina-
+(3) The student is to be notified officially and with-                     tions that are immediately connected to a specific
+out undue delay of the final failure to pass the ex-                       course does neither require course enrollment nor
+amination for the entire degree program by the                             participation in the affiliated course.
+Student Administration Center. The Student Ad-
+ministration Center makes decisions about appeals                          § 14       Defaults; Exclusion from the Perfor-
+against such notifications.                                                           mance Evaluation Process in the Event
+                                                                                      of Violations of Domiciliary Rights
+
+§ 13      Retaking Examinations, Non-Binding                               (1) A primary examination will be given a grade of
+          Examinations, and Grade Improve-                                 “insufficient” (5.0) if the student, despite being
+          ments                                                            registered and admitted, without good cause,
+                                                                           a) does not produce an examination requirement,
+(1) Examinations not passed on the first attempt in                        b) drops out while participating in an examina-
+the first semester of study are treated as if they were                          tion , or
+not taken.                                                                 c) does not complete a written examination re-
+                                                                                 quirement within the allotted time (processing
+(2) With the exception of the bachelor’s and mas-                                time).
+ter’s thesis (including any oral defense stipulated in
+these regulations or in the subject- or degree-                            (2) The important reasons for defaulting, dropping
+specific regulations), examinations that are failed                        out, or exceeding the processing time of the exami-
+can be repeated twice. If the failed examination                           nation requirement must be reported to the examin-
+component is part of a module examination that                             er in writing without undue delay after their occur-
+was not passed overall, then the examination com-                          rence and must be substantiated.
+ponent can be repeated individually as a sub-
+examination.                                                               (3) In the event of illness, a medical certificate must
+                                                                           be submitted to the Student Administration Center
+(3) For all suitable subjects, the subject- or degree-                     within seven calendar days of the beginning of the
+specific regulations can specify the requirements                          illness. If the medical certificate is sent via postal
+under which an examination completed during the                            service to the University of Potsdam, then it must
+standard period of study can be considered as not                          be sent within the period specified in sentence 1; as
+taken if that examination is not passed (“Freiver-                         per the date of the postmark. The medical certificate
+such”, i.e. a ‘free shot’ or non-binding exam). Sub-                       must specifically and clearly indicate an inability to
+section 1 remains unaffected by this. Generally,                           take an examination. The Student Administration
+non-binding exams may be allowed for a maximum                             Center determines whether the medical certificate
+of two modules per subject in both the bachelor's                          was submitted within the proper time period, and
+and master's degree programs. The Student Admin-                           shares its decision with the examiner. If an exami-
+istration Center must be notified of the utilization of                    nation requirement is not produced (subsection 1
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+letter a) or if the student drops out of the examina-                      section 2 and Section 6 subsection 1 of the Materni-
+tion, the medical certificate can be issued no later                       ty Protection Act (Mutterschutzgesetz, MuSchG),
+than the day of the examination. If the medical                            as well as the provisions for parental leave in Sec-
+certificate certifies the inability to take an examina-                    tions 15 and 16 of the Law on Parental Benefits and
+tion for a period of more than one day, and if the                         Parental Leave (Gesetz zum Elterngeld und zur
+student takes part in an examination during this                           Elternzeit, BEEG) shall be taken into account.
+period, then the medical certificate also loses its
+validity for the time after the examination. If the                        (4) Upon application to the Examining Board, stu-
+student is not able to comply with the deadline                            dents
+under sentence 1, for reasons beyond the student’s                         a) who have a child for whose welfare they are
+control, then the medical certificate must be submit-                             responsible and who lives in the same house-
+ted once this reason no longer affects the student                                hold, or
+without undue delay; the failure to meet the dead-                         b) who are members of a national squad of a
+line must be justified.                                                           National Sports Federation in the German
+                                                                                  Olympic Sports Confederation,
+(4) The examiner typically decides whether to ac-                          are authorized to complete individual primary or
+cept the reason given; in case of doubt, the Examin-                       secondary examination requirements after expira-
+ing Board shall decide. If the examiner accepts the                        tion of the deadlines specified in these regulations
+reason for the default, then a new examination date                        or in the subject- or degree-specific regulations.
+shall be scheduled immediately, or the submission                          The same applies to the deadlines and the pro-
+deadline shall be extended. Participation in the new                       cessing time of primary and secondary examination
+examination date requires new registration and                             requirements, as well as for repeat examinations.
+admission to the examination.                                              Deadlines are typically initially extended by up to
+                                                                           two semesters, and processing times are extended
+(5) If measures to punish violations of domiciliary                        by one-third of the entire processing time that was
+rights lead to a temporary exclusion from the per-                         initially allocated. This right to compensation for
+formance evaluation process, subsection 1 shall                            disadvantage expires with the conclusion of the
+apply accordingly.                                                         semester in which the requirements named under a)
+                                                                           and b) no longer apply.
+(6) Subsections 1 to 5 shall apply accordingly to the
+completion of secondary examinations.                                      (5) Upon application to the Examining Board, par-
+                                                                           ticipation in statutory bodies and committees of the
+§ 15      Compensation for Disadvantages                                   University of Potsdam, as well as in statutory or-
+                                                                           ganizations of student self-administration at the
+(1) If a student demonstrates that he or she, due to a                     University of Potsdam, must be taken into account
+disability, chronic illness or pregnancy is not in a                       to a reasonable extent. Primary and secondary ex-
+position to fully or partially complete academic                           amination achievements can be completed after the
+performance and examination requirements within                            expiration of the deadlines specified in these regula-
+the scheduled processing time or in the given form,                        tions or in the subject- or degree-specific regula-
+then the Examining Board, upon written request,                            tions for this reason. The deadlines can be extended
+works together with the student and the examiner to                        by a maximum of two semesters for this reason.
+determine measures by means of which equivalent
+study and examination achievements can be com-                             (6) Regarding further case-by-case rulings and the
+pleted within an extended processing time or in                            equivalency of academic performance and examina-
+another form.                                                              tion achievements in other forms, the Examining
+                                                                           Board, upon application by a student, works togeth-
+(2) If compliance with the deadlines for the initial                       er with the student and the examiner to make a
+registration for primary or secondary examinations,                        decision in cases that are different from those gov-
+the retaking of primary or secondary examinations,                         erned by subsections 1 through 5.
+the assertion of reasons for not completing primary
+or secondary examinations, or compliance with
+deadlines for examination achievements are affect-                         § 16       Recognition and Crediting of Achieve-
+ed, then the student’s obligation to care for a close                                 ments
+relative with a disability, chronic illness, pregnan-
+cy, or to provide sole support, shall be equivalent to                     (1) In the interest of students and to promote mobil-
+the disability, chronic illness or pregnancy of the                        ity, the University of Potsdam follows a generous
+student. Close relatives include children, parents,                        policy of recognition within the framework of Sec-
+grandparents, spouses, and partners in registered                          tion 24 of the BbgHG.
+civil partnerships.
+                                                                           (2) The Examining Board for the degree program or
+(3) Upon application to the Examining Board, the                           subject for which an achievement is to be recog-
+claim of periods of protection under Section 3 sub-                        nized is responsible for such recognition.
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+                                                                           (7) If the recognized achievement is graded and the
+(3) When taking up or continuing a degree program                          grade comes from a scale that can be represented by
+or when transferring to another degree program,                            the grading scale used in these regulations, then this
+achievements from a previous degree program are                            grade is transferred. Grades from other scales will
+to be recognized, provided that they do not differ                         be converted. Credit points from other point sys-
+substantially in terms of the skills acquired in com-                      tems are converted in accordance with subsection 6.
+parison to the corresponding program or subject of                         Such conversions shall be defined by the Examin-
+study at the University of Potsdam. An essential                           ing Board. For ungraded achievements, a grade
+difference exists in particular if the successful con-                     must be specified if the relevant subject- or degree-
+clusion of university studies is endangered by the                         specific study and examination regulations at the
+recognition of the achievement, because the                                University of Potsdam require a grade.
+achievement for which recognition is requested
+does not cover a competence required for the suc-                          (8) It is not possible to recognize and credit one and
+cessful conclusion of studies. The requirements and                        the same achievement to multiple modules or re-
+qualification objectives of subsequent university                          quired achievements (primary and secondary exam-
+studies are an essential criterion for recognition.                        inations). If an achievement can be separated into
+The Examining Board bears the burden of proof to                           several individual achievements, these can be as-
+demonstrate that there is no equivalence between                           signed to different modules or required achieve-
+the competences gained in earlier achievements in                          ments.
+comparison to the corresponding degree program at
+the University of Potsdam. The same applies to                             (9) If the subject-specific or degree-specific regula-
+achievements that are completed during enrollment                          tions provide for obligatory or recommended stays
+at the University of Potsdam in the context of a                           abroad, a learning agreement must generally be
+visiting student auditing courses at another institu-                      concluded between the student and the competent
+tion of higher education that falls within the higher                      Examining Board in accordance with subsection 2.
+education laws of the German federal states. The                           When concluding a learning agreement, it is crucial
+auditing arrangement must be documented in ac-                             that the anticipated learning results and competenc-
+cordance with the other institution’s requirements,                        es largely correspond to one another.
+unless the relevant Faculty at the University relin-
+quishes its claim to proof due to an agreement with                        (10) Skills and abilities attained outside of the high-
+the other institution of higher education.                                 er education system shall be credited to university
+                                                                           studies at up to 50 percent if they are equivalent in
+(4) Subsection 3 shall also apply to academic per-                         content and level of the study component that they
+formance and examination achievements obtained                             are meant to replace.
+at universities abroad. When recognizing periods of
+study, academic performance and examination                                (11) A decision not to recognize an achievement
+achievements that were completed outside of the                            must be justified in written form to the student. The
+scope of the laws governing higher education in the                        Examining Board makes decisions regarding ap-
+German federal states, the “Convention on the                              peals against a decision made by the Examining
+Recognition of Qualifications concerning Higher                            Board to reject recognition of an achievement.
+Education in the European Region” (“Lisbon
+Recognition Convention”), the equivalence agree-
+ments approved by the Conference of the Ministers                          § 17       Statement of Originality; Deception,
+of Education and the German Rectors’ Conference,                                      Academic Misconduct
+as well as agreements in the context of university
+partnerships, must be taken into account.                                  (1) When taking part in a performance evaluation,
+                                                                           the student shall provide a statement that he or she
+(5) The application for recognition must be submit-                        has completed the assignment independently and
+ted to the Examining Board. The applicant must                             that he or she has used only the permissible and
+provide the required information regarding the                             specified sources and resources.
+achievement for which recognition is requested.
+The decision regarding recognition is made on the                          (2) If the candidate attempts to influence the result
+basis of this information.                                                 of his/her examination achievement through decep-
+                                                                           tion or the use of unauthorized resources, the corre-
+(6) When recognizing an achievement, a number of                           sponding examination achievement will be graded
+attained credit points is determined. The achieve-                         as “insufficient”. A candidate who collaborates on
+ments are assigned credit points that correspond to                        an attempt to cheat can be excluded from continu-
+the credit points awarded by the relevant subject- or                      ing the examination by the examiner or proctor; in
+degree-specific regulations at the University of                           this case, the affected examination achievement is
+Potsdam, and a grade is assigned.                                          graded as “insufficient” (5.0). In severe cases, espe-
+                                                                           cially those that qualify as criminal acts, the Exam-
+                                                                           ining Board can prohibit the affected candidate
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+from completing further examinations. The Exam-                                   Academia – Guidelines for Safeguarding
+ining Board makes its decision after having heard                                 Good Research Practice at the University of
+the candidate.                                                                    Potsdam” also apply. The results of the inves-
+                                                                                  tigation will be submitted to the Examining
+(3) A candidate who severely disrupts an orderly                                  Board with a recommendation as to a decision
+performance evaluation process can be excluded                                    and further actions.
+from the respective part of the performance evalua-                        6.     Depending upon the severity of the infraction,
+tion by the examiner or proctor; in this case, the                                the Examining Board can impose further
+affected examination achievement is graded as                                     sanctions, with the ultimate measure of de-
+“insufficient” (5.0).                                                             claring the examination achievement irrevo-
+                                                                                  cably failed.
+(4) If the candidate submits a written examination
+achievement which was completed under condi-                               (5) So as to be able to investigate any suspicion of
+tions amounting to academic misconduct on the                              academic misconduct, examiners are entitled to
+part of the student then the following procedure is                        require students to submit written examination
+to be implemented:                                                         achievements that were not completed under super-
+1.    The relevant achievement is given a grade of                         vision in electronic form as well. Examiners are
+      “insufficient” (5.0).                                                authorized to use software programs that detect
+2.    The affected teaching staff member informs                           academic misconduct.
+      the chairperson of the Examining Board and
+      can reject the submission of additional work                         (6) Students must be notified without undue delay
+      by the same candidate.                                               and in writing of any decisions made pursuant to
+3.    The examination achievement graded as “in-                           subsection 3, the reasons for such decisions, and
+      sufficient” (5.0) is recorded in the campus                          instructions on how to appeal them.
+      management system with a note indicating
+      academic misconduct.                                                 (7) Further details are governed by the Guidelines
+4.    If such academic misconduct is repeated, or in                       for Safeguarding Good Research Practice for Stu-
+      cases of serious and deliberate academic mis-                        dents at the University of Potsdam (Plagiarism
+      conduct, the Examining Board can prohibit                            Guidelines), as amended from time to time.
+      the affected candidate from completing fur-
+      ther examination achievements. This decision-                        (8) If academic misconduct is, at a later date, found
+      making authority cannot be transferred to the                        to have occurred in a written achievement relevant
+      chairperson of the Examining Board. The Ex-                          to the examination, the examination decision that
+      amining Board makes its decision after having                        has already been issued may be revoked and the
+      heard the candidate. A severe case of deliber-                       measures specified in subsection 3 may be taken.
+      ate academic misconduct exists in particular if                      The examination decision cannot be revoked if this
+      a) more than half of the work is based on                            decision was made more than five years ago. The
+          plagiarism or other academic misconduct,                         provisions of Section 21 remain unaffected.
+      b) the candidate attempts to obstruct, by
+          means of dishonest behavior, the investi-                        (9) Subsections 1 through 7 apply accordingly to
+          gation into the academic misconduct,                             secondary examinations.
+      c) the academic misconduct causes a disad-
+          vantage to another student in the submis-
+          sion of their own examination achieve-                           § 18       Overall Grade Scale
+          ment,
+      d) the academic misconduct was committed                             (1) The following grade scale applies to overall
+          for commercial reasons or to acquire ille-                       grades calculated under Sections 27 or 31 for bach-
+          gal financial gains, or                                          elor’s and master’s degrees:
+      e) the candidate has abused an employment                                  1.0 down to and including 1.2: “with distinc-
+          relationship with the University of Pots-                              tion”
+          dam.                                                                   1.3 down to and including 1.5: “very good”
+5.    Upon application by the candidate or the                                   1.6 down to and including 2.5: “good”
+      chairperson of the Examining Board, the spe-                               2.6 down to and including 3.5: “satisfactory”
+      cific case shall be presented to the Ombuds-                               3.6 down to and including 4.0: “sufficient”
+      man or to the Commission for Academic Mis-
+      conduct in accordance with the guidelines                            (2) In addition to the overall grade in subsection 1,
+      enumerated in “Self-Monitoring in Research                           a relative grade (ECTS grade) is awarded. This
+      and Academia – Guidelines for Safeguarding                           must be based on the following correlation:
+      Good Research Practice at the University of                                A = the best 10%
+      Potsdam”. Section II, no. 2.1 and no. 2.3.                                 B = the next 25%
+      Subsections 1 and 2 a) through e) of the                                   C = the next 30%
+      guidelines “Self-Monitoring in Research and                                D = the next 25%
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+      E = the next 10%                                                     (3) The issuance of the diploma gives graduates the
+of the reference group. As a basis for calculating                         right to present themselves as holders of the respec-
+the relative grade, in addition to the graduating                          tive academic degree.
+cohort, at least two and no more than five cohorts
+from directly preceding years must be included as a                        (4) The certificate lists all modules and the subject
+reference group. The reference group must include                          of the final thesis, as well as the number of credit
+at least 10 students. The current graduating cohort                        points attained, grades, and grading information.
+is not included in the calculation. If the required                        The certificate also includes the overall grade. The
+minimum reference group size of 10 students is not                         date of examination is the date on which the last
+met, and/or if there are no cohorts from previous                          relevant primary or secondary examination
+years, then the reference group can also be formed                         achievement was graded. The certificate is signed
+in a way that applies across degree programs in                            by the chairperson of the Examining Board. The
+accordance with the discipline-specific classifica-                        certificate and the English translation bear the seal
+tion structure of the Federal Statistics Office. If this                   of the University of Potsdam.
+procedure also results in the required minimum
+reference group size of 10 students not being met,                         (5) The diploma supplement must include infor-
+and if the formation of a reference group across                           mation about the structure and contents of universi-
+degree programs is ruled out, then ECTS grades are                         ty studies that led to the academic degree. The
+awarded according to the following scheme:                                 German- and English-language templates provided
+                                                                           by the Student Administration Center should be
+                                                                           used for the diploma supplement.
+ Overall        ECTS        ECTS              German
+ Grade          Grade       Definition        Description                  (6) For dual-subject bachelor’s degree programs,
+ (subsec-                                                                  the signatures are added as described under subsec-
+ tion 5)                                                                   tions 2 to 4 and the diploma supplement is signed
+ 1.0 – 1.5      A           excellent         hervorragend                 by the chairperson of the Examining Board for the
+ 1.6 – 2.0      B           very good         sehr gut                     first subject or the dean for the first subject.
+ 2.1 – 3.0      C           good              gut
+ 3.1 – 3.5      D           satisfactory      befriedigend                 (7) Students who leave the University of Potsdam
+ 3.6 – 4.0      E           sufficient        ausreichend                  without having completed a bachelor’s or master’s
+                                                                           degree shall receive, after de-registration and upon
+                                                                           application, a written confirmation of the academic
+                                                                           performance and examination achievements com-
+§ 19      Certificates, Diplomas, Written Confir-
+                                                                           pleted, as well as the number of examination at-
+          mations
+                                                                           tempts for examination achievements not passed. If
+                                                                           a student irrevocably fails to pass the examination
+(1) If a student has completed the credit points in all
+                                                                           requirement for the entire degree program, then,
+sub-fields required for graduation, and if all of the
+                                                                           with the notification regarding irrevocable failure to
+other graduation requirements enumerated in these
+                                                                           pass under Section 12 subsection 3, a written con-
+regulations and in the subject- or degree-specific
+                                                                           firmation in accordance with sentence 1 is issued
+regulations have been fulfilled, then the student
+                                                                           upon application that also states that the student did
+graduates without needing to submit a special ap-
+                                                                           not pass the examination requirement for the entire
+plication. In this case, students shall be issued:
+                                                                           degree program.
+a) a diploma (“Urkunde”)in German conferring
+       the respective academic degree,
+b) a certificate (“Zeugnis”) in German, and
+                                                                           § 20       Retention and Viewing of Examination
+c) a diploma supplement in German .
+                                                                                      Files
+In addition to these graduation documents, the stu-
+dents will receive English translations thereof.
+                                                                           (1) Documents from the performance evaluation
+                                                                           process that are relevant to grading must be retained
+(2) The diploma conferring the respective academic
+                                                                           for 12 months from the time at which the results are
+degree must include the degree program and the
+                                                                           announced. These documents should be retained for
+overall grade. The date of graduation is the date on
+                                                                           a period of 12 months from the time at which the
+which the last relevant primary or secondary exam-
+                                                                           certificate is issued. Afterwards they can be deliv-
+ination achievement required for graduation was
+                                                                           ered to the student or discarded. The same applies
+graded. The diploma is signed by the chairperson of
+                                                                           for cases in which a student leaves the University of
+the Examining Board and the dean responsible for
+                                                                           Potsdam without having completed a bachelor’s or
+the degree program. The diploma bears the seal of
+                                                                           master’s degree, starting at the time of de-
+the University of Potsdam.
+                                                                           registration.
+
+                                                                           (2) After an examination achievement is graded,
+                                                                           students must be granted the opportunity to view
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+the documents relevant to the grading process. The                         Admission to restricted-admission bachelor’s de-
+deadline for this inspection typically ends two                            gree programs or subjects is governed by the rules
+months after the grade is announced.                                       and regulations for the admission to university
+                                                                           studies in restricted-admission undergraduate de-
+(3) After the grading of their bachelor’s or master’s                      gree programs at the University of Potsdam in
+thesis, students can apply to view, under supervi-                         combination with the Brandenburg University Ad-
+sion, their thesis and related evaluation reports. The                     missions Act (BbgHZG) and the decree issued as a
+application must be submitted to the Student Ad-                           result.
+ministration Center at the latest within one month
+of the announcement of the result. After the expira-
+tion of a period of five years after the conclusion of                     § 22       Duration and Organization of Bache-
+the examination procedure, the bachelor’s or mas-                                     lor’s Degree Programs
+ter’s thesis shall be discarded, without prejudice to
+the provisions of subsection 1.                                            (1) Bachelor’s degrees are offered at the University
+                                                                           of Potsdam as a single- or dual-subject degree pro-
+§ 21      Invalidity of Graduation                                         gram. The standard period of study for a full-time,
+                                                                           single-subject degree program is six, seven or eight
+(1) If a candidate has cheated on an examination or                        semesters (180, 210, or 240 CPs), and for a full-
+thesis, and if this fact first becomes known after the                     time dual-subject degree program, six semesters
+issuance of the certificate, then the Examining                            (180 CPs), each including time for the preparation
+Board, in consultation with the respective Faculty                         of a bachelor’s thesis. The subject- or degree-
+Council, can retract the credit points attained by                         specific regulations govern the details of a degree
+illegitimate means and adjust the grade accordingly                        program’s standard period of study. The subject- or
+for an examination achievement and declare the                             degree-specific regulations must extend the stand-
+examination achievement to be partially or fully                           ard period of study for part-time degree programs
+failed. This can result in the revocation of gradua-                       accordingly. The regulations for the first subject
+tion.                                                                      shall prevail in the event that there are restrictions
+                                                                           on combining subjects in dual-subject degree pro-
+(2) If the requirements for participating in the per-                      grams.
+formance evaluation were not met, and if the stu-
+dent did not intend to mislead anyone in this regard,                      (2) University studies are divided into mandatory
+and this fact first becomes known after the issuance                       and elective modules that must be listed in the
+of the certificate, then this mistake is remedied by                       module catalog of the relevant subject- or degree-
+the awarding of credit points. If the candidate inten-                     specific regulations. The scope of studies is meas-
+tionally engaged in deception to participate in the                        ured by credit points in accordance with Section 6.
+examination, then the Examining Board, in consul-
+tation with the respective Faculty Council, shall                          (3) The degree programs must be designed in such
+make a decision about whether to retract the certifi-                      a way that they leave room for stays at universities
+cate. Before the decision is made, the candidate                           abroad and internships, without delaying the stu-
+must be given an opportunity to make a statement.                          dent’s progress (mobility window).
+
+(3) The incorrect certificate and the incorrect di-                        (4) A single-subject degree program has a scope of
+ploma supplement must be collected and re-issued                           30 credit points per semester (including the credit
+if necessary. The graduation diploma must be col-                          points for the bachelor’s thesis and the credit points
+lected along with the incorrect certificate if gradua-                     for the key competences under Section 23).
+tion was improperly authorized on the basis of a
+deception. Graduation cannot be revoked if an ex-                          (5) A dual-subject degree program with a standard
+amination decision was made more than five years                           period of study of six semesters has the following
+ago.                                                                       scope:
+                                                                                First subject:                    90 CPs
+(4) The provisions governing the revocation of                                  Second subject:                   60 CPs
+academic degrees remain unaffected.                                             Key competences (Section 23): 30 CPs
+                                                                                Total:                          180 CPs
+
+II. Special Provisions for Bachelor’s Degree
+Programs                                                                   § 23       Key Competences
+
+§ 21a     Access and Admission to Bachelor’s                               (1) The completion of 30 credit points of key com-
+          Degree Programs                                                  petences is required in all bachelor’s degree pro-
+                                                                           grams. The key competences are either defined in
+Access to bachelor’s degree programs is governed                           subject- or degree-specific ways, or as Studiumplus.
+by Section 9 subsections 1 to 4 of the BbgHG.                              Studiumplus is a component of bachelor’s degree
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+programs that facilitates the acquisition of interdis-
+ciplinary key competences.                                                 (7) The modules for the profession-specific key
+                                                                           competences from the subject- or degree-specific
+(2) Key competences under subsection 1 include:                            regulations and the “Module catalog for profession-
+1.   basic academic competences for a total of                             specific key competences” can be combined freely
+     12 credit points, and                                                 insofar as the subject- or degree-specific regulations
+2.   profession-specific competences for a total of                        do not specify any restrictions.
+     18 credit points.
+                                                                           (8) Insofar and to the extent that the subject- or
+(3) The teaching of 12 credit points of basic aca-                         degree-specific regulations do not offer their own
+demic competences (subsection 2 no. 1) is governed                         modules for the acquisition of profession-specific
+by the subject- or degree-specific regulations, and                        key competences, then the profession-specific key
+for dual-subject degree programs by the regulations                        competences must be divided into modules with 6,
+for the first subject. The competences to be taught                        12, or 18 credit points.
+as a minimum are listed in Appendix 3 to these
+regulations; the subject- or degree-specific regula-                       (9) Studiumplus courses are suitable for part-time
+tions can add additional competences. Up to 6 cred-                        study.
+it points can be awarded for ungraded practical
+phases of university studies. Basic academic com-
+petences must be organized as follows in the sub-                          § 24       Objectives of the Key Competences
+ject- or degree-specific regulations: Either in a
+module with 12 credit points, or distributed across                        (1) Key competences include the acquisition of
+two modules with 6 credit points each, or distribut-                       a) interdisciplinary skills, abilities and capabili-
+ed across a specific basic competences module with                                ties with direct benefit for various profession-
+6 credit points, with the rest distributed across the                             al fields as well as university studies,
+other modules in the regulations, or with all compe-                       b) methods and strategies of interdisciplinary
+tences distributed across the regulations’ modules                                and solution-oriented thinking and working,
+without a specific basic competences module. Inso-                         c) knowledge related to the professional field,
+far and to the extent that basic competences are not                              and
+taught in specific basic competence modules, the                           d) the ability to find one’s bearings in social
+proportion of credit points for basic academic com-                               situations and to participate in an appropriate
+petences must be disclosed in the description of                                  way,
+each related module.                                                       in order to facilitate better access to the professional
+                                                                           fields associated with a graduates’ degree program
+(4) Up to 6 credit points of achievements completed                        and to enable them to adjust quickly and compe-
+within the “Successful start in university studies for                     tently to new developments in their professional
+international students” program can be recognized                          field.
+as basic academic competences by the respective
+Examining Board in the sense of subsection 2 no. 1.                        (2) The grades for profession-specific key compe-
+                                                                           tences are calculated by multiplying all of the rele-
+(5) The manner of teaching of the 18 credit points                         vant module grades by their respective number of
+of profession-specific key competences (subsec-                            credit points, then dividing by the total number of
+tion 2 no. 2) is governed by the subject- or degree-                       credit points. Only the first digit after the decimal
+specific regulations, and for dual-subject degree                          point is taken into account in the formation of the
+programs by the regulations of the first subject.                          grade; all other digits after the decimal point are
+                                                                           deleted without rounding.
+(6) Insofar and to the extent that the subject- or
+degree-specific regulations do not provide other-
+wise, particularly if they do not offer their own                          § 25       Studiumplus Curriculum Committee
+modules, then the acquisition of profession-specific
+key competences is governed by the provisions of                           (1) The Studiumplus Curriculum Committee is
+these regulations. These regulations are supple-                           formed to manage the curriculum for acquiring key
+mented by module descriptions (“Module catalog                             competences. The committee is comprised of a
+for profession-specific key competences”) that are                         chairperson appointed by the Executive Board of
+defined in an independent statute by the Senate of                         the University of Potsdam, the Deans of Studies,
+the University of Potsdam. The design of modules                           two students, and a representative from the central
+and the module descriptions in the rules and regula-                       institutions. The Senate appoints the students and
+tions for the “Module catalog for profession-                              the representative from the central institutions.
+specific key competences” must in particular meet
+the requirements of Section 5 (including Appen-                            (2) The Studiumplus Curriculum Committee
+dix 1) and Section 12 subsection 2 of these regula-                        -    coordinates the Studiumplus courses offered
+tions.                                                                          for acquiring key competences;
+    This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                           German and English versions of these regulations, the German-language version shall prevail.
+
+
+-        ensures compliance with the provisions re-                           gram. The thesis is typically completed in the last
+         garding the acquisition of key competences;                          semester of study of the bachelor’s degree program.
+-        makes decisions on proposals by students or                          It is typically written alongside university studies.
+         teachers regarding issues of interpretation,                         The thesis should demonstrate that the candidate is
+         and gives suggestions regarding the promo-                           able, within a limited time, to work on a problem
+         tion of competence acquisition;                                      from a subject in their degree program, inde-
+-        issues guidelines for the recognition of credits                     pendently and with scholarly methods, and to pre-
+         as key competences through the Examining                             sent the findings of this work in an appropriate
+         Boards (“Recognition Guidelines”), reviews                           manner. For dual-subject degree programs, the
+         these at regular intervals, and modifies them                        thesis is typically written in the first subject. With
+         as necessary;                                                        approval from the Examining Board for the first
+-        makes decisions in cases of doubt regarding                          subject, it is also possible to write a thesis in the
+         the recognition of study and examination                             second subject.
+         achievements in the field of key competences;
+-        reports to the Senate of the University of                           (2) The bachelor’s thesis must comprise 6, 9, or
+         Potsdam at regular intervals about experiences                       12 credit points, as determined by the subject- or
+         with the application of these regulations with                       degree-specific regulations. The topic, type of prob-
+         regard to key competences and makes pro-                             lem and scope of the thesis must be limited accord-
+         posals, if applicable, for their reform.                             ingly. If the bachelor’s thesis is written in the sec-
+                                                                              ond subject, the evaluation with credit points is
+(3) The Studiumplus Curriculum Committee can                                  determined by the regulations of the first subject
+assign responsibilities to the chairperson by means                           chosen by the student.
+of a resolution. Assigned decisions are presented to
+the Studiumplus Curriculum Committee for a deci-                              (3) The bachelor’s thesis is assigned and supervised
+sion upon application by an affected person.                                  by an examiner appointed by the Examining Board.
+                                                                              The candidate has the right to nominate an examin-
+(4) The term of office on the Studiumplus Curricu-                            er.
+lum Committee is two years; the term of office for
+the student member is one year. The members shall                             (4) The relevant subject- or degree-specific study
+continue to serve on the committee after the expira-                          and examination regulations govern the point in
+tion of their term of office until their successor has                        time as of which the topic of the bachelor’s thesis is
+assumed the position. With the majority of its                                assigned; however, the successful completion of
+members, the Senate can replace members it ap-                                academic performance and examination achieve-
+pointed to the Curriculum Committee before the                                ments amounting to at least 75 percent of the total
+expiration of the term of office.                                             number of credits to be earned in the degree pro-
+                                                                              gram, minus the credits for the thesis and for the
+(5) Resolutions shall be passed by a simple majori-                           possible oral defense, if necessary, must be required
+ty. In the event of a tie, the chairperson casts the                          at this point. After attaining the admission require-
+deciding vote. The committee has a quorum if more                             ments for the bachelor’s thesis set out in sentence 1,
+than half of its members, including the chairperson,                          the student has the right to the immediate assign-
+are present. Meeting minutes must be kept for                                 ment of a topic. The candidate has the right to pro-
+meetings of the Committee. The committee can                                  pose a topic. The topic must be assigned in a timely
+adopt its own rules of procedure.                                             fashion so that the thesis, if the relevant processing
+                                                                              time is fully utilized (subsection 5), can be evaluat-
+(6) The Studiumplus Curriculum Committee makes                                ed by the end of the last curricular semester. The
+decisions regarding appeals against a decision made                           topic assigned by the supervisor is issued to the
+by the Studiumplus Curriculum Committee. In                                   candidate without undue delay via the chairperson
+accordance with subsection 3, this decision-making                            of the Examining Board. Assignment is only possi-
+authority cannot be delegated to the chairperson or                           ble if the candidate, at the time of the issuance, is
+deputy chairperson.                                                           enrolled in the relevant degree program. The candi-
+                                                                              date must register the topic within one week of
+(7) Members of the Studiumplus Curriculum Com-                                issuance with the Student Administration Center.
+mittee and their deputies are sworn to official se-                           The time of issuance and the time of registration are
+crecy. Insofar as they do not work in public service,                         then put on record there. If registration is not done
+they must be bound to confidentiality by the chair-                           in a timely manner, then a new topic must be as-
+person.                                                                       signed insofar as the candidate is responsible for the
+                                                                              reasons for the delay.
+
+§ 26         Bachelor’s Thesis                                                (5) The processing time allowed to complete the
+                                                                              bachelor’s thesis begins with the registration of the
+(1) The bachelor’s thesis is a required examination                           topic with the Student Administration Center in
+achievement and the final project for a degree pro-                           accordance with subsection 4. The processing time
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+is based on the credit points awarded for the thesis                       (8) The bachelor's thesis is to be reviewed and
+according to the subject- or degree-specific regula-                       evaluated by two examiners representing the sub-
+tions: The processing time allowed for the comple-                         ject area to which the thesis relates, with one of the
+tion of the bachelor’s thesis is calculated as follows:                    examiners – typically the first examiner – fulfilling
+if the thesis counts for 6 credit points, three months                     the requirements of Section 7, subsection 3 of the
+are allowed; for 9 credit points, 20 weeks; and for                        HSPV. The first examiner is the supervisor who
+12 credit points, six months. Variations from these                        assigned the topic of the bachelor’s thesis. The
+guidelines can be set by the chairperson of the Ex-                        second examiner is appointed by the Examining
+amining Board upon issuance of the topic if the                            Board; the candidate has a right to propose a second
+completion of the bachelor’s thesis is not taking                          examiner. The thesis must be evaluated as a “pass”
+place at the same time that courses are being taken                        or “fail” within two weeks of the submission of the
+(“bloc processing”). In this case, the processing                          thesis, and must be assessed and graded within four
+time allowed for the completion of the bachelor’s                          weeks at the latest. The examiners appraise the
+thesis is calculated as follows: if the thesis counts                      thesis in writing and explain their grading in ac-
+for 6 credit points, 23 working days are allowed; for                      cordance with Section 11 subsections 2 and 3. If the
+9 credit points, 35 working days; and for 12 credit                        difference in the grades is greater than 2.0, or if one
+points, 45 working days. The thesis is considered                          of the grades is worse than “sufficient” (4.0), then
+completed on time if it is submitted to the Student                        the Examining Board will appoint a third examiner.
+Administration Center or at a University post office                       If two of the three examiners then grade the thesis
+before expiration of the deadline. If the thesis is                        as “insufficient” (5.0), then the final grade for the
+submitted via the postal service to the University of                      thesis is “insufficient” (5.0). Otherwise, the final
+Potsdam, then it is considered completed on time if                        thesis grade is calculated by averaging the two
+it was sent within the deadline; as per the date of                        better grades, without rounding after the first deci-
+the postmark. The thesis may only be submitted                             mal place.
+after at least one third of the processing time has
+elapsed; in case of earlier submission, the day on                         (9) A bachelor’s thesis that receives a grade of
+which one third of the processing time has elapsed                         “insufficient” (5.0) can only be repeated once. The
+shall be considered the day of submission, and the                         registration of the new topic shall be made no later
+deadline for evaluation shall only begin on that day.                      than two months after the decision on the failure to
+                                                                           pass the first thesis according to subsection 8. Sub-
+(6) The bachelor’s thesis must be submitted in three                       section 4 applies to the issuance and registration of
+physical copies and one digital copy. The thesis                           the new topic.
+must have page numbers, a table of contents, and a
+list of the sources consulted and resources used.                          (10) The topic can be returned one time to the thesis
+Passages of the thesis that are quoted or para-                            supervisor, with a written explanation. The explana-
+phrased from other works must be identified in the                         tion must be received by the supervisor by the end
+bibliography. The thesis should as a rule not exceed                       of the first month of the processing time allowed
+20 DIN A4 pages for a thesis earning 6 credit                              for the completion of the thesis (subsection 5) if the
+points, 25 pages for 9 credit points, or 30 pages for                      total processing time is three or four-and-a-half
+12 credit points. At the end of the thesis, the candi-                     months, or by the end of the second month if the
+date must include a declaration stating that the                           total processing time is six months. The respective
+candidate composed the thesis independently and                            deadlines for bloc processing are 8 working days if
+did not use any sources or resources other than                            the total processing time is 23 working days;
+those listed.                                                              12 working days if the total is 35 working days; and
+                                                                           16 working days if the total is 45 working days. If a
+(7) If the candidate culpably misses the submission                        topic is returned, then the performance evaluation
+deadline, the thesis receives a grade of “insuffi-                         ends without a grading process, the right under
+cient” (5.0). If the delay is due to illness, then Sec-                    sentence 1 is revoked, and a new topic must be
+tion 14 subsection 3 applies; the deadline is then                         assigned without undue delay under subsection 4.
+extended in correspondence with the duration of the                        The return of the topic must be noted in the campus
+physician’s note. If there is another important rea-                       management system. When repeating a failed bach-
+son for missing the deadline, the chairperson of the                       elor’s thesis, the right under sentence 1 only exists
+Examining Board may, after consultation with the                           if the candidate has not made use of this possibility
+thesis supervisor, grant a reasonable extension of                         during the preparation of the failed bachelor’s the-
+the deadline, generally up to one month, before the                        sis.
+processing time expires in accordance with subsec-
+tion 5; the important reason asserted for the exten-                       (11) The subject- or degree-specific regulations can
+sion of the processing time must be reported to the                        require an oral defense of the bachelor’s thesis. In
+examiner in writing immediately after their occur-                         this case, Section 30 subsection 11 applies.
+rence and must be substantiated.
+                                                                           (12) The bachelor’s thesis must be composed in
+                                                                           German, unless the subject- or degree-specific
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+regulations specify another language. The thesis can                       tion 2 remains unaffected by this provision. The
+also be composed in English with the approval of                           other elective modules will not count towards the
+the supervisor. If both examiners declare their con-                       overall grade, but they will be listed in the tran-
+sent, the Examining Board can also allow for the                           script of records.
+thesis to be composed in another language. If the
+thesis is not composed in German, it must contain
+an appendix with a brief summary in German.                                III. Special Provisions for Master’s Degree Pro-
+                                                                           grams
+
+§ 27      Subject-Specific and Overall Grade for                           § 27a      Access and Admission to Master’s De-
+          Bachelor’s Degrees                                                          gree Programs
+
+(1) The overall grade for the bachelor’s degree for a                      Admission to restricted-admission master’s degree
+single-subject bachelor’s program is the weighted                          programs is governed by the General Rules and
+credit point average of all related module grades,                         Regulations on Access and Admission to Non-
+the grade for the profession-specific key compe-                           Teaching-Oriented Master’s Degree Programs at
+tences, and the grade for the bachelor’s thesis. The                       the University of Potsdam (Zulassungsordnung,
+subject- or degree-specific regulations can require                        ZulO) in combination with the Brandenburg Uni-
+special weighting for the bachelor’s thesis, for indi-                     versity Admissions Act (BbgHZG) and the decree
+vidual modules, or for groups of modules. The                              issued as a result. Section 9 subsections 5-6 of the
+overall grade calculated in accordance with sen-                           BbgHG in combination with the ZulO under sen-
+tence 1 is cut off at the first digit after the decimal                    tence 1 and the subject- and degree-specific admis-
+point, without rounding.                                                   sion regulations based thereon govern access to a
+                                                                           master’s degree program.
+(2) The grade for a subject in a dual-subject bache-
+lor’s program is the weighted credit point average
+of all module grades related to the subject, without                       § 28       Types of Master’s Degree Programs
+inclusion of the bachelor’s thesis. Only the first
+digit after the decimal point is taken into account in                     (1) Master’s degree programs should be designed to
+the formation of the grade; all other digits after the                     have a stronger orientation towards research or
+decimal point are deleted without rounding. The                            towards application.
+subject- or degree-specific regulations can specify
+other weighting factors for module grades.                                 (2) The subject- or degree-specific regulations must
+                                                                           specify whether the degree program is consecutive
+(3) The overall grade for the bachelor’s degree for                        or a further education program.
+dual-subject bachelor’s programs results from the
+two subject grades, the grade for the profession-
+specific key competences, and the grade for the                            § 29       Duration and Organization of Master’s
+bachelor’s thesis in proportion to the respective                                     Degree Programs
+numbers of credit points. The subject- or degree-
+specific regulations can require special weighting                         (1) Master’s degree programs are completed as a
+for the bachelor’s thesis, for individual modules, or                      single-subject degree program. Content from other
+for groups of modules. The overall grade calculated                        subject areas must be identified, in agreement with
+in accordance with sentence 1 is cut off at the first                      the department offering the content, as an integra-
+digit after the decimal point, without rounding.                           tive component of the degree program in the sub-
+                                                                           ject- or degree-specific regulations for the program.
+(4) If the student has successfully completed more
+elective modules than were necessary according to                          (2) The standard period of study for a master’s
+the credit point requirements for elective modules,                        degree program is two, three or four semesters (60,
+then the elective modules that the student has des-                        90, or 120 CPs), including the completion of a
+ignated to the Student Administration Center count                         master’s thesis. The overall standard period of full-
+towards the grade for the degree program or sub-                           time study in consecutive degree programs may not
+ject. The designation of elective modules that are to                      exceed ten semesters. The subject- or degree-
+be included in the grading process must be submit-                         specific regulations govern the details of a degree
+ted in writing at the latest by the time at which the                      program’s standard period of study. The subject- or
+bachelor’s thesis is submitted. This designation                           degree-specific regulations must extend the stand-
+may only be carried out once. If this designation                          ard period of study for part-time degree programs
+has not been carried out by the time at which the                          accordingly.
+bachelor’s thesis is submitted, then the elective
+modules will count in the temporal sequence of                             (3) University studies are divided into mandatory
+their completion until the required total of credit                        and elective modules that must be listed in the
+points for electives is reached. Section 12 subsec-                        module catalog of any subject- or degree-specific
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+regulations. The scope of studies is measured by                           must be assigned in a timely fashion so that the
+credit points in accordance with Section 6.                                thesis, if the relevant processing time is fully uti-
+                                                                           lized (subsection 5), can be evaluated by the end of
+(4) A master’s degree program has a scope of                               the last curricular semester. The topic assigned by
+30 credit points per semester (including the credit                        the supervisor is issued to the candidate without
+points for the master’s thesis).                                           undue delay via the chairperson of the Examining
+                                                                           Board. Assignment is only possible if the candidate,
+(5) The degree programs must be designed in such                           at the time of the issuance, is enrolled in the rele-
+a way that they leave room for stays at universities                       vant degree program. The candidate must register
+abroad and internships, without delaying the stu-                          the topic within one week of issuance with the
+dent’s progress (mobility window).                                         Student Administration Center. The time of issu-
+                                                                           ance and the time of registration are then put on
+                                                                           record there. If registration is not done in a timely
+§ 30      Master’s Thesis                                                  manner, then a new topic must be assigned insofar
+                                                                           as the candidate is responsible for the reasons for
+(1) The master’s thesis is a required examination                          the delay.
+achievement and is the final project for a degree
+program. The thesis is typically completed in the                          (5) The processing time allowed to complete the
+last semester of study in the master’s degree pro-                         master’s thesis begins with the registration of the
+gram. The master’s thesis must be prepared ex-                             topic with the Student Administration Center in
+pressly for the relevant master’s examination and                          accordance with subsection 4. The processing time
+within the relevant degree program; recognition of a                       is based on the credit points awarded for the thesis
+thesis completed previously elsewhere as a master’s                        according to the subject- or degree-specific regula-
+thesis is prohibited. The master’s thesis is to                            tions. If the thesis counts for 15-21 credit points,
+demonstrate that the candidate has acquired ex-                            four months of processing time are allowed to com-
+panded and advanced competences in the degree                              plete the thesis; for 24-30 credit points, six months.
+program building upon a first professional qualifi-                        Variations from these guidelines can be set by the
+cation, is capable of combining theory and empiri-                         chairperson of the Examining Board upon issuance
+cal findings, can apply subject-specific methodolo-                        of the topic if the completion of the master’s thesis
+gies on a scholarly basis to deal with a research- or                      is not taking place at the same time that courses are
+application-oriented problem within a given time                           being taken (“bloc processing”). In this case, the
+frame, and is able to present the results thereof in a                     processing time corresponds to the scope of the
+formal, linguistically and professionally convincing                       work, with 10 working days for every 3 credit
+manner.                                                                    points. The thesis is considered completed on time
+                                                                           if it is submitted to the Student Administration
+(2) The master’s thesis is completed alongside                             Center or at a University post office before expira-
+university studies. The subject of the master’s thesis                     tion of the deadline. If the thesis is submitted via
+and the resulting research effort required must be                         the postal service to the University of Potsdam,
+compatible with the scope of 15, 18, 21, 24, 27, or                        then it is considered completed on time if it was
+30 credit points, including the oral defense, as de-                       sent within the deadline; as per the date of the
+termined in the requirements of the relevant sub-                          postmark. The thesis may only be submitted after at
+ject- or degree-specific regulations. The topic, type                      least one third of the processing time has elapsed;
+of problem, and scope of the thesis must be limited                        in case of earlier submission, the day on which one
+accordingly.                                                               third of the processing time has elapsed shall be
+                                                                           considered the day of submission, and the deadline
+(3) The master’s thesis is set and supervised by an                        for evaluation shall only begin on that day.
+examiner appointed by the Examining Board. The
+candidate has the right to nominate an examiner.                           (6) The master’s thesis must be submitted in three
+                                                                           physical copies and one digital copy. The thesis
+(4) The relevant subject- or degree-specific study                         must have page numbers, a table of contents, and a
+and examination regulations govern the point in                            list of the sources consulted and resources used.
+time as of which the topic of the master’s thesis is                       Passages of the thesis that are quoted or para-
+assigned; however, the successful completion of                            phrased from other works must be identified in the
+academic performance and examination achieve-                              bibliography. The length of the thesis should not
+ments amounting to at least 75 percent of the total                        exceed three DIN A4 pages per credit point. At the
+number of credits to be earned in the degree pro-                          end of the thesis, the candidate must include a dec-
+gram, minus the credits for the thesis and for the                         laration stating that the candidate composed the
+oral defense must be required at this point. After                         thesis independently and did not use any sources or
+attaining the admission requirements for the mas-                          resources other than those listed.
+ter’s thesis set out in sentence 1, the student has the
+right to the immediate assignment of a topic. The                          (7) If the candidate culpably misses the submission
+candidate has the right to propose a topic. The topic                      deadline, the thesis receives a grade of “insuffi-
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+cient” (5.0). If the delay is due to illness, then Sec-                    (11) The Examining Board calls for an oral defense
+tion 14 subsection 3 applies; the deadline is then                         to defend the thesis after its submission. The oral
+extended in correspondence with the duration of the                        defense only takes place if the thesis has received a
+physician’s note. If there is another important rea-                       final grade of “sufficient” (4.0) or better under
+son for missing the deadline, the chairperson of the                       subsection 8. The oral defense is graded by an Ex-
+Examining Board may, after consultation with the                           amination Committee. The Examination Committee
+thesis supervisor, grant a reasonable extension of                         consists of the examiners and, usually, one observ-
+the deadline, generally up to one month, before the                        er. The oral defense includes a 20-minute oral
+processing time expires in accordance with subsec-                         presentation and a 30-minute oral examination;
+tion 5; the important reason asserted for the exten-                       minutes must be kept. If the oral defense receives a
+sion of the processing time must be reported to the                        grade of “insufficient” (5.0), it can be repeated one
+examiner in writing immediately after its occur-                           time. The evaluation of the oral defense constitutes
+rence and must be substantiated.                                           25 percent of the overall grade for the master’s
+                                                                           thesis. The oral defense is open to the University
+(8) The master's thesis is to be reviewed and evalu-                       community; the student can also apply to exclude
+ated by two examiners representing the subject area                        the public.
+to which the thesis relates, with one of the examin-
+ers – typically the first examiner – fulfilling the                        (12) The master’s thesis must be composed in Ger-
+requirements of Section 7, subsection 3 of the                             man, unless the subject- or degree-specific regula-
+HSPV. The first examiner is the thesis supervisor.                         tions specify another language. The thesis can also
+The second examiner is appointed by the Examin-                            be composed in English with the approval of the
+ing Board; the candidate has a right to propose a                          supervisor. If both examiners declare their consent,
+second examiner. The thesis must be assessed and                           the Examining Board can also allow for the thesis
+graded within six weeks at the latest. The examin-                         to be composed in another language. If the thesis is
+ers appraise the thesis in writing and explain their                       not composed in German, it must contain an appen-
+grading in accordance with Section 11 subsections                          dix with a brief summary in German.
+2 and 3. If the difference in the grades is greater
+than 2.0, or if one of the evaluations is worse than                       (13) In the case of part-time degree programs, the
+“sufficient”, then the Examining Board will appoint                        subject-specific regulations shall specify longer
+a third examiner. If two of the three examiners then                       deadlines for the completion of the master's thesis
+grade the thesis as “insufficient” (5.0), then the                         or the return of the topic than those specified in
+final grade for the thesis is “insufficient” (5.0).                        subsection 5, sentences 3 and 5, and subsection 10,
+Otherwise, the final thesis grade is calculated by                         sentences 2 and 3, insofar as this is appropriate in
+averaging the two better grades, without rounding                          view of the overall organization of the degree pro-
+after the first decimal place.                                             gram. The deadline extension should be oriented
+                                                                           towards a semester workload in full-time studies
+(9) A master’s thesis that receives a grade of “insuf-                     (30 CPs/semester) in proportion to the average
+ficient” (5.0) can only be repeated once.                                  semester workload for a part-time degree program
+                                                                           (calculated in CPs per semester on the basis of total
+(10) The topic can be returned one time to the thesis                      workload and the standard period of study for the
+supervisor, with a written explanation. The explana-                       degree program). These deadlines may be extended
+tion must be received by the supervisor by the end                         to a maximum of double the time.
+of the first month of the processing time allowed
+for the completion of the thesis (subsection 5) if the
+total processing time is three or four months, or by                       § 31       Overall Grade for the Master’s Degree
+the end of the second month if the total processing
+time is six months. If the processing time allowed                         (1) The overall grade for the master’s degree is the
+for the completion is measured in days for bloc                            weighted credit point average of all related module
+processing, then the relevant deadline depends on                          grades and the grade for the master’s thesis. The
+the scope of the thesis and amounts to 1 working                           subject- or degree-specific regulations can require
+day per credit point. If a topic is returned, then the                     special weighting for the master’s thesis, for indi-
+performance evaluation ends without a grading                              vidual modules, or for groups of modules. The
+process, the right under sentence 1 is revoked, and a                      overall grade determined in accordance with sen-
+new topic must be assigned immediately under                               tence 1 is cut off at the first decimal place, without
+subsection 4. The return of the topic must be noted                        rounding.
+in the campus management system. When repeating
+a failed master’s thesis, the right under sentence 1                       (2) If the student has successfully completed more
+only exists if the candidate has not made use of this                      elective modules than were required by the credit
+possibility during the preparation of the failed mas-                      point requirements for elective modules, then the
+ter’s thesis.                                                              elective modules that the student has designated to
+                                                                           the Student Administration Center count towards
+                                                                           the grade for the degree program or subject. The
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+designation of elective modules that are to be in-                         April 1, 2013, the provisions of these regulations
+cluded in the grading process must be submitted in                         shall supersede those of the respective subject- or
+writing at the latest by the time at which the mas-                        degree-specific regulations and the previous
+ter’s thesis is submitted. This designation may only                       BAMA-O. Sections 1 through 5, Section 13 subsec-
+be carried out once. If this designation has not been                      tion 3, and Sections 23 through 32 of these regula-
+carried out by the time at which the master’s thesis                       tions shall apply to students studying or enrolled in
+is submitted, then the elective modules will count in                      a bachelor's or master's degree program whose
+the temporal sequence of their completion until the                        subject-specific or program-specific regulations are
+required total of credit points for electives is                           not based on the completion point system
+reached. Section 12 subsection 2 remains unaffect-                         (“Belegpunktesystem”) within the meaning of the
+ed by this provision. The other elective modules                           framework regulations pursuant to subsection 4, but
+will not count towards the overall grade, but they                         as of April 1, 2013, only to the extent that the sub-
+will be listed in the transcript of records.                               ject-specific or degree-specific regulations do not
+                                                                           contain any other provisions; Section 1 subsection 3
+                                                                           shall not apply in this respect.
+IV. Cooperative Degree Programs
+                                                                           (4) These regulations shall not apply to students in
+§ 31a     Cooperative Degree Programs                                      a bachelor’s or master’s degree program whose
+                                                                           subject- or degree-specific regulations are based on
+For cooperative degree programs, joint subject- or                         the completion point system within the meaning of
+degree-specific regulations can require that, instead                      the Framework Regulations for Bachelor's and
+of the provisions of Sections 9 through 31, the co-                        Master’s Degree Studies at the University of Pots-
+operation partner’s regulations apply insofar as                           dam of March 16, 2006 (Official Announcements
+these correspond to the provisions of the BbgHG                            UP no. 3/2006, p. 22), last amended by the statutes
+and HSPV.                                                                  of September 24, 2009 (Official Announcements
+                                                                           UP no. 9/2009, p. 173).
+
+V. Final Provisions                                                        (5) Amendments to the subject- or degree-specific
+                                                                           regulations of a bachelor’s or master's degree pro-
+§ 32      Entry-into-Force,     Expiration,                and             gram which the Faculty Council decides on after
+          Transitional Provisions                                          the enactment of these regulations must comply
+                                                                           with the provisions of these regulations, unless
+(1) These regulations take effect on the day after                         barred from doing so in individual cases due to
+their publication in the Official Announcements of                         subject- or degree-specific reasons or reasons relat-
+the University of Potsdam. At the same time, the                           ed to the protection of legitimate expectation, that
+General Rules and Regulations for Non-Teaching-                            cannot be rectified by transitional provisions. Sec-
+Oriented Bachelor’s and Master’s Degree Programs                           tion 1 subsection 4 must be applied. The preceding
+at the University of Potsdam (BAMA-O) of Sep-                              sentences also apply to regulations that are based
+tember 24, 2009 (UP Official Announcements no.                             upon the completion point system of the framework
+9/2009, p. 160), last amended by the statutes of                           regulations, insofar as this system does not pose
+October 20, 2010 (UP Official Announcements no.                            any compelling impediments.
+1/2011, p. 21) expire. The applicability of these
+regulations and the continued application of the                           (6) Irrespective of subsections 3 and 4, all subject-
+previous BAMA-O of September 24, 2009, in the                              or degree-specific regulations issued before the
+current version follow the provisions below.                               enactment of these regulations must be adjusted to
+                                                                           the provisions of these regulations. Until they ex-
+(2) Sections 23 to 25 of these regulations shall first                     pire, they shall continue to apply with all their pro-
+be applied as of the winter semester 2013/2014.                            visions. Subsections 3 and 4 remain unaffected.
+The rules and regulations for the “Module catalog
+of profession-specific key competences” (Section                           (7) The subject- or degree-specific regulations is-
+23 subsection 5) must be prepared in a timely fash-                        sued on the basis of these regulations have transi-
+ion so that they can enter into force by October 1,                        tional provisions stipulating that previously issued
+2013.                                                                      subject- or degree-specific regulations expire after a
+                                                                           period of time equal to twice the standard period of
+(3) These regulations apply as of April 1, 2013, to                        study for a degree program after the enactment of
+all students who are enrolled or will be enrolled in a                     the respective new subject- or degree-specific regu-
+bachelor’s or master’s degree program. The previ-                          lations. Students who are still studying under the
+ous BAMA-O will continue to apply until                                    previously approved subject- or degree-specific
+March 31, 2013. In the event that these regulations                        regulations when the new subject- or degree-
+contradict the respective subject- or degree-specific                      specific regulations come into effect can apply to
+regulations, or the previous BAMA-O, then, as of                           transfer to the new regulations within one year of
+                                                                           the new subject- or degree-specific regulations
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+coming into effect. Achievements completed thus
+far are recognized in accordance with the provisions
+of Article 16. Students who are still studying under
+the previously approved regulations after the expi-
+ration of the deadline in sentence 1 will be officially
+transferred to the new subject- or degree-specific
+regulations.
+ This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                        German and English versions of these regulations, the German-language version shall prevail.
+
+
+Appendix 1 (to Section 5 subsection 2): Templates for module descriptions
+
+Version 1
+
+Name of Module                                                                                      Number of credit points (CPs):
+Module type (mandatory or elec-
+tive module):
+Content and objectives of the
+module:
+Module (sub-)examination(s)
+(number, form, scope):
+Independent study time (in hours
+(h)):
+
+                                                                     Secondary examinations                             Course-
+                                                                     (number, form, scope)                              accompanying
+                                             Contact time (in
+                                                                                                                        module (sub-)
+Courses (teaching formats)                   hrs/wk per se-
+                                                                     For completing             For admission           examination(s)
+                                             mester)
+                                                                     the module                 to module exam          (number, form,
+                                                                                                                        scope)
+…
+…
+…
+
+Frequency at which the module is offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+
+
+Version 2
+
+Name of Module:                                                                                     Number of credit points (CPs):
+Module type (mandatory or elec-
+tive module):
+Content and objectives of the
+module:
+Module (sub-)examination(s)
+(number, form, scope, work re-
+quired in CPs):
+
+                                                            Secondary examinations                       Course-
+                                             Contact
+                                                            (number, form, scope)                        accompanying
+                                             time (in                                                                            Total
+                                                                                                         module (sub-)
+Courses (teaching formats)                   hrs/ wk        For complet-          For admission                                  workload
+                                                                                                         examination(s)
+                                             per se-        ing the mod-          to module                                      (in CPs)
+                                                                                                         (number, form,
+                                             mester)        ule                   exam
+                                                                                                         scope)
+…
+…
+…
+
+Frequency at which the module is offered:
+Prerequisite for taking the module:
+Teaching unit(s):
+  This translation of the German original is provided for information purposes only. In case of inconsistencies or discrepancies between the
+                         German and English versions of these regulations, the German-language version shall prevail.
+
+
+ Appendix 2 (to Section 5 subsection 5): Recommended distribution of credit points (CPs) for dual-subject
+ Bachelor’s degree programs (full-time study)
+
+Semester of             1st SoS          2nd SoS           3rd SoS           4th SoS           5th SoS           6th SoS          Total
+Study (SoS)
+First subject              12                12               12                12                12                30           90 CPs
+Second subject             12                12               12                12                12                --           60 CPs
+Key Compe-                 6                 6                6                 6                 6                 --           30 CPs
+tences
+Total                      30                30               30                30                30                30          180 CPs
+
+
+ Appendix 3 (to Section 23 subsection 3): Basic Academic Competences
+
+ The modules for scholarly work and writing / scholarly practice are primarily aimed at the acquisition of meth-
+ odological competences relevant to the discipline, thereby increasing the student’s ability to study. Specifically,
+ these include:
+ -     self-reflection, analyzing one’s own learning progress, individual study and planning strategies
+ -     formulating and working on scholarly questions
+ -     locating information and literature
+ -     reading and understanding scholarly texts
+ -     composing scholarly texts
+ -     preparing written works
+ -     preparing presentations
+ -     applying special presentation techniques
+ -     academic discourse and scholarly discussion, oral/written
+ These competences are taught in a cross-disciplinary manner.
+
