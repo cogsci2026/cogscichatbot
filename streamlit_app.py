@@ -17,8 +17,7 @@ import requests
 import streamlit as st
 
 MISTRAL_URL = "https://api.mistral.ai/v1/chat/completions"
-EMBED_URL = "https://api.mistral.ai/v1/embeddings"
-TOP_K = 8  # number of text chunks sent per question
+TOP_K = 10  # number of text chunks sent per question
 DOCS_DIR = Path(__file__).parent / "docs" / "text"
 AVATAR = str(Path(__file__).parent / "assets" / "cogsi.png")
 
@@ -86,27 +85,25 @@ def load_chunks():
     return chunks
 
 
+STOP = set("the a an of to in and or for on at by is are be with as this that from it its any".split())
+
+
 def tokens(text):
-    return re.findall(r"\w+", text.lower())
-
-
-@st.cache_resource(show_spinner="Preparing documents …")
-def chunk_embeddings(api_key):
-    """Embed all chunks once (multilingual, so German questions match English text)."""
-    texts = [f"{c['title']}\n{c['text']}" for c in load_chunks()]
-    vecs = []
-    for i in range(0, len(texts), 32):
-        r = post_with_retry(EMBED_URL, api_key, {"model": "mistral-embed", "input": texts[i:i + 32]})
-        r.raise_for_status()
-        vecs += [d["embedding"] for d in r.json()["data"]]
-        time.sleep(1.1)  # stay under the free tier's requests-per-second limit
-    m = np.array(vecs, dtype=np.float32)
-    return m / np.linalg.norm(m, axis=1, keepdims=True)
+    out = []
+    for w in re.findall(r"\w+", text.lower()):
+        if w in STOP or len(w) < 2:
+            continue
+        for suf in ("ations", "ation", "ings", "ing", "ies", "es", "s"):
+            if len(w) > len(suf) + 3 and w.endswith(suf):
+                w = w[: -len(suf)]
+                break
+        out.append(w)
+    return out
 
 
 def bm25_ranking(query):
-    """Keyword fallback if embeddings are unavailable."""
-    docs = [Counter(tokens(c["text"])) for c in load_chunks()]
+    """Rank chunks by keyword relevance (BM25)."""
+    docs = [Counter(tokens(c["title"] + " " + c["text"])) for c in load_chunks()]
     avg = sum(sum(d.values()) for d in docs) / len(docs)
     df = Counter(t for d in docs for t in d)
     scores = []
@@ -121,16 +118,31 @@ def bm25_ranking(query):
     return np.argsort(scores)[::-1]
 
 
-def retrieve(query, api_key):
-    chunks = load_chunks()
+def search_keywords(question, prev_q, api_key):
+    """Turn the question (any language) into English search keywords with one small, cheap call."""
+    prompt = (
+        "Convert this student question about a university master's program into 10-20 English search "
+        "keywords for searching study and examination regulations. Include synonyms "
+        "(e.g. exam, examination, retake, repeat, credit points, CP, thesis). Output only the keywords.\n\n"
+        + (f"Previous question: {prev_q}\n" if prev_q else "")
+        + f"Question: {question}"
+    )
     try:
-        m = chunk_embeddings(api_key)
-        r = post_with_retry(EMBED_URL, api_key, {"model": "mistral-embed", "input": [query]})
+        r = post_with_retry(MISTRAL_URL, api_key, {
+            "model": MODEL, "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0, "max_tokens": 80,
+        })
         r.raise_for_status()
-        q = np.array(r.json()["data"][0]["embedding"], dtype=np.float32)
-        order = np.argsort(m @ (q / np.linalg.norm(q)))[::-1]
+        return r.json()["choices"][0]["message"]["content"]
     except Exception:
-        order = bm25_ranking(query)
+        return ""
+
+
+def retrieve(question, prev_q, api_key):
+    chunks = load_chunks()
+    keywords = search_keywords(question, prev_q, api_key)
+    time.sleep(1.1)  # free tier: about one request per second
+    order = bm25_ranking(f"{question} {keywords}")
     picked = sorted(order[:TOP_K])  # keep document order
     return "\n\n".join(
         f'<excerpt document="{chunks[i]["title"]}">\n{chunks[i]["text"].strip()}\n</excerpt>' for i in picked
@@ -203,7 +215,7 @@ if question := st.chat_input("Ask a question … / Stell eine Frage …"):
     with st.chat_message("assistant", avatar=AVATAR):
         try:
             with st.spinner("Searching the documents …"):
-                context = retrieve(f"{prev_q}\n{question}".strip(), api_key)
+                context = retrieve(question, prev_q, api_key)
             messages = (
                 [{"role": "system", "content": SYSTEM_PROMPT}]
                 + history
