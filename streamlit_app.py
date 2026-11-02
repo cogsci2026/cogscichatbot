@@ -4,6 +4,7 @@ Answers questions using only the documents in docs/text/, via the Mistral API.
 Hosted for free on Streamlit Community Cloud. Needs the secret MISTRAL_API_KEY.
 """
 
+import base64
 import json
 import math
 import os
@@ -184,9 +185,13 @@ def stream_answer(messages, api_key):
 
 
 st.set_page_config(page_title="Cogsi", page_icon=AVATAR)
-col_img, col_title = st.columns([1, 6], vertical_alignment="center")
-col_img.image(AVATAR, width=80)
-col_title.title("Cogsi")
+_logo = base64.b64encode(Path(AVATAR).read_bytes()).decode()
+st.markdown(
+    f'<div style="display:flex;align-items:center;gap:0.5rem;margin-bottom:0.5rem">'
+    f'<img src="data:image/png;base64,{_logo}" width="72">'
+    f'<span style="font-size:2.6rem;font-weight:700">Cogsi</span></div>',
+    unsafe_allow_html=True,
+)
 st.caption(
     "Your assistant for the MSc Cognitive Science at the University of Potsdam – "
     "based on the official FAQ and regulations. Fragen gern auch auf Deutsch. "
