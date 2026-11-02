@@ -168,7 +168,11 @@ def stream_answer(messages, api_key):
         stream=True,
     )
     if r.status_code == 429:
-        yield "⏳ Too many questions at the moment – please wait a minute and try again."
+        limits = {k: v for k, v in r.headers.items() if "ratelimit" in k.lower() or k.lower() == "retry-after"}
+        yield (
+            "⏳ Too many questions at the moment – please wait a minute and try again.\n\n"
+            f"<small>Details: model `{MODEL}` · {r.text[:200]} · {limits}</small>"
+        )
         return
     if r.status_code != 200:
         yield f"⚠️ Error from Mistral API ({r.status_code}): {r.text[:300]}"
