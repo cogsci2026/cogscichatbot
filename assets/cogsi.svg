@@ -4,17 +4,24 @@
     <path d="M100 72 C88 62 66 62 56 74 C40 72 28 86 32 102 C20 112 24 134 40 140 C42 158 62 168 78 160 C88 170 100 166 100 156 Z" fill="#f4a3c0"/>
     <path d="M100 72 C112 62 134 62 144 74 C160 72 172 86 168 102 C180 112 176 134 160 140 C158 158 138 168 122 160 C112 170 100 166 100 156 Z" fill="#f4a3c0"/>
     <g fill="none">
-      <path d="M100 74 L100 156"/>
+      <path d="M100 74 L100 92"/>
       <path d="M56 76 C62 88 76 90 82 84"/>
       <path d="M36 104 C50 104 56 114 54 124"/>
-      <path d="M66 112 C76 104 88 110 86 122"/>
       <path d="M44 138 C56 140 64 134 66 146"/>
       <path d="M144 76 C138 88 124 90 118 84"/>
       <path d="M164 104 C150 104 144 114 146 124"/>
-      <path d="M134 112 C124 104 112 110 114 122"/>
       <path d="M156 138 C144 140 136 134 134 146"/>
     </g>
   </g>
+  <!-- laughing face -->
+  <g stroke="#5a2340" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M70 110 Q78 100 86 110"/>
+    <path d="M114 110 Q122 100 130 110"/>
+  </g>
+  <path d="M76 122 Q100 124 124 122 Q120 150 100 150 Q80 150 76 122 Z" fill="#7a2a4a" stroke="#5a2340" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M88 142 Q100 134 112 142 Q106 149 100 149 Q94 149 88 142 Z" fill="#ff7a93"/>
+  <ellipse cx="62" cy="124" rx="8" ry="5" fill="#ff7fa8" opacity="0.7"/>
+  <ellipse cx="138" cy="124" rx="8" ry="5" fill="#ff7fa8" opacity="0.7"/>
   <!-- mortarboard sitting on top of the brain -->
   <path d="M68 70 L68 54 C80 60 120 60 132 54 L132 70 C120 76 80 76 68 70 Z" fill="#2b2f3a"/>
   <path d="M100 24 L170 46 L100 66 L30 46 Z" fill="#3a4050" stroke="#2b2f3a" stroke-width="3" stroke-linejoin="round"/>
