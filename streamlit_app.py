@@ -168,7 +168,7 @@ def stream_answer(messages, api_key):
         stream=True,
     )
     if r.status_code == 429:
-        yield "⏳ Too many questions at the moment – please wait a minute and try again. / Gerade zu viele Anfragen – bitte in einer Minute nochmal versuchen."
+        yield "⏳ Too many questions at the moment – please wait a minute and try again."
         return
     if r.status_code != 200:
         yield f"⚠️ Error from Mistral API ({r.status_code}): {r.text[:300]}"
@@ -194,7 +194,7 @@ st.markdown(
 )
 st.caption(
     "Your assistant for the MSc Cognitive Science at the University of Potsdam – "
-    "based on the official FAQ and regulations. Fragen gern auch auf Deutsch. "
+    "based on the official FAQ and regulations. "
     "Information only, not legally binding. Please do not enter personal data."
 )
 
@@ -210,7 +210,7 @@ for m in st.session_state.messages:
     with st.chat_message(m["role"], avatar=AVATAR if m["role"] == "assistant" else None):
         st.markdown(m["content"])
 
-if question := st.chat_input("Ask a question … / Stell eine Frage …"):
+if question := st.chat_input("Ask a question …"):
     st.session_state.messages.append({"role": "user", "content": question})
     with st.chat_message("user"):
         st.markdown(question)
